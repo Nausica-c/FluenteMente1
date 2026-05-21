@@ -43,16 +43,24 @@ html, body {
   width: 100%;
 }
 
-/* --- Spazio Banner --- */
+/* --- Spazio Banner (Aggiornato per Immagine Awin) --- */
 .promo-banner {
   background-color: var(--color-banner-bg);
   text-align: center;
-  padding: 10px 15px;
+  padding: 5px; /* Ridotto per ospitare meglio l'immagine */
   border-bottom: 1px solid #e0e0e0;
   min-height: 44px; 
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+/* Rende l'immagine di affiliazione adattabile a tutti gli schermi */
+.promo-banner img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
 }
 
 .promo-banner .banner-link {
@@ -310,4 +318,4 @@ html, body {
     align-items: flex-start;
     gap: 60px;
   }
-  }
+}
