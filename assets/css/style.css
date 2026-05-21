@@ -102,13 +102,14 @@
   }
   }/* --- Footer Base --- */
 .site-footer {
-  /* Usa un grigio molto scuro per far risaltare il testo bianco */
-  background-color: var(--color-text-main); 
-  color: #ffffff;
+ site-footer {
+  background-color: var(--color-footer-bg); 
+  color: #f8fafc; /* Un bianco leggermente ammorbidito per non affaticare la vista */
   font-family: var(--font-primary);
   padding: 40px 20px 20px;
   margin-top: 60px;
-}
+  border-top: 4px solid var(--color-accent); /* Linea arancione superiore per richiamare il brand */
+ }
 
 .footer-container {
   max-width: 1200px;
