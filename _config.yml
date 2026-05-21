@@ -1,0 +1,25 @@
+# --- Informazioni sul Sito ---
+title: FluenteMente
+description: "Il metodo basato sul microlearning per imparare le lingue in soli 15 minuti al giorno, in totale autonomia."
+lang: it
+
+# --- Configurazione URL (Cruciale per GitHub Pages) ---
+# Sostituisci "FluenteMente1" con il nome esatto del tuo repository su GitHub
+url: "https://nausica-c.github.io"
+baseurl: "/FluenteMente1"
+
+# --- Impostazioni di Compilazione ---
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+
+# --- Esclusioni ---
+# Dice a Jekyll quali file ignorare durante la compilazione del sito
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/
+  - .jekyll-cache/
+  - .jekyll-metadata
+  
