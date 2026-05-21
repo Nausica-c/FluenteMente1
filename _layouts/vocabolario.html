@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<article class="vocab-container">
+  <a href="javascript:history.back()" class="back-link">← Torna indietro</a>
+
+  <header class="vocab-header">
+    <span class="badge" style="margin-bottom: 15px; display: inline-block;">{{ page.cluster }}</span>
+    <h1 class="vocab-title">{{ page.title }}</h1>
+    
+    {% if page.description %}
+    <div class="in-breve-box">
+      <strong>⏱️ In breve:</strong> {{ page.description }}
+    </div>
+    {% endif %}
+  </header>
+
+  <div class="vocab-content">
+    {{ content }}
+  </div>
+</article>
