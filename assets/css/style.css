@@ -102,7 +102,6 @@
   }
   }/* --- Footer Base --- */
 .site-footer {
- site-footer {
   background-color: var(--color-footer-bg); 
   color: #f8fafc; /* Un bianco leggermente ammorbidito per non affaticare la vista */
   font-family: var(--font-primary);
