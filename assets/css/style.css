@@ -88,19 +88,124 @@
   color: var(--color-accent);
 }
 
-/* --- Responsive (Mobile-First base) --- */
+/* --- Stile Logo in due colori --- */
+.text-accent {
+  color: var(--color-accent);
+}
+
+/* --- Bottoni di sistema (Resets) --- */
+.hamburger-btn, .close-btn {
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: var(--color-text-main);
+  display: flex;
+  align-items: center;
+  padding: 0;
+}
+
+/* --- Overlay Menu Mobile (Nascosto di default) --- */
+.mobile-menu-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+  background-color: var(--color-bg-main);
+  z-index: 2000;
+  display: flex;
+  flex-direction: column;
+  transform: translateY(-100%); /* Nasconde il menu in alto */
+  transition: transform 0.3s ease-in-out; /* Animazione di scorrimento */
+}
+
+/* Classe aggiunta dal JavaScript per mostrare il menu */
+.mobile-menu-overlay.is-open {
+  transform: translateY(0);
+}
+
+/* --- Header interno al Menu Mobile --- */
+.mobile-menu-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 16px 24px;
+}
+
+/* --- Lista Link Mobile --- */
+.mobile-nav-links {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.mobile-nav-links a {
+  text-decoration: none;
+  color: var(--color-text-main);
+  font-size: 1.1rem;
+  font-weight: 500;
+  padding: 18px 0;
+  width: 50%; /* Controlla la larghezza della linea separatrice */
+  text-align: center;
+  border-bottom: 1px solid #eaeaea; /* La linea grigia tra i link */
+}
+
+.mobile-nav-links a:last-child {
+  border-bottom: none;
+}
+
+/* --- Bottone Arancione Babbel --- */
+.mobile-menu-cta {
+  margin-top: 40px;
+  display: flex;
+  justify-content: center;
+}
+
+.babbel-btn {
+  background-color: var(--color-accent);
+  color: #ffffff;
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 1.1rem;
+  padding: 14px 40px;
+  border-radius: 40px; /* Forma arrotondata a "pillola" */
+  text-align: center;
+  box-shadow: 0 4px 12px rgba(255, 90, 0, 0.3); /* Leggera ombra per farlo risaltare */
+  transition: transform 0.2s ease;
+}
+
+.babbel-btn:active {
+  transform: scale(0.96);
+}
+
+/* --- Responsive: Nascondi hamburger e mostra menu classico su PC --- */
 @media (max-width: 768px) {
-  .nav-container {
-    flex-direction: column;
-    gap: 12px;
-    padding: 12px 16px;
+  .desktop-nav {
+    display: none; /* Nasconde i link classici su smartphone */
+  }
+}
+
+@media (min-width: 769px) {
+  .hamburger-btn {
+    display: none; /* Nasconde l'hamburger su PC */
   }
   
-  .main-nav ul {
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 16px;
+  .desktop-nav ul {
+    list-style: none;
+    display: flex;
+    gap: 24px;
+    margin: 0;
+    padding: 0;
   }
+  
+  .desktop-nav a {
+    text-decoration: none;
+    color: var(--color-text-main);
+    font-weight: 600;
+  }
+}
+
   }/* --- Footer Base --- */
 
 .site-footer {
