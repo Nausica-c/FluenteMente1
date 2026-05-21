@@ -429,3 +429,101 @@ html, body {
   font-size: 0.8rem;
   font-weight: 600;
 }
+/* =========================================
+   LAYOUT VOCABOLARIO E PRATICA
+========================================= */
+.vocab-container {
+  max-width: 800px; /* Più stretto per facilitare la lettura */
+  margin: 0 auto;
+  padding: 20px 0;
+}
+
+.back-link {
+  display: inline-block;
+  color: var(--color-accent);
+  text-decoration: none;
+  font-weight: 600;
+  margin-bottom: 20px;
+  font-size: 0.95rem;
+  transition: opacity 0.2s;
+}
+
+.back-link:hover {
+  opacity: 0.8;
+}
+
+.vocab-title {
+  font-size: 2.2rem;
+  color: var(--color-text-main);
+  margin: 0 0 20px 0;
+  letter-spacing: -0.5px;
+  line-height: 1.2;
+}
+
+/* --- Box "In Breve" --- */
+.in-breve-box {
+  background-color: var(--color-banner-bg);
+  border-left: 4px solid var(--color-accent);
+  padding: 16px 20px;
+  border-radius: 0 8px 8px 0;
+  margin-bottom: 40px;
+  font-size: 0.95rem;
+  color: #444444;
+  line-height: 1.6;
+}
+
+.in-breve-box strong {
+  color: var(--color-text-main);
+}
+
+/* --- Formattazione delle Tabelle Markdown (Le Card Vocabolario) --- */
+.vocab-content table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0 10px; /* Crea spazio tra le righe simulando delle card */
+  margin-top: 20px;
+}
+
+.vocab-content th {
+  text-align: left;
+  padding: 10px 20px;
+  font-size: 0.9rem;
+  color: #888888;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  border-bottom: 2px solid #eaeaea;
+}
+
+.vocab-content td {
+  background-color: var(--color-bg-main);
+  padding: 18px 20px;
+  font-size: 1.1rem;
+  border-top: 1px solid #eaeaea;
+  border-bottom: 1px solid #eaeaea;
+}
+
+/* Arrotondamento angoli per farle sembrare vere "card" orizzontali */
+.vocab-content td:first-child {
+  border-left: 1px solid #eaeaea;
+  border-radius: 8px 0 0 8px;
+  font-weight: 700; /* La parola in lingua straniera in grassetto */
+  color: var(--color-text-main);
+  width: 50%;
+}
+
+.vocab-content td:last-child {
+  border-right: 1px solid #eaeaea;
+  border-radius: 0 8px 8px 0;
+  color: #555555; /* La traduzione leggermente più chiara */
+}
+
+/* Responsive per schermi molto piccoli */
+@media (max-width: 480px) {
+  .vocab-title {
+    font-size: 1.8rem;
+  }
+  .vocab-content td {
+    padding: 15px 12px;
+    font-size: 1rem;
+  }
+}
