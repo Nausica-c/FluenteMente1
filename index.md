@@ -27,11 +27,12 @@ title: FluenteMente - Impara le lingue in 15 minuti
       <p>Inizi da zero? Parti da qui per costruire basi solide senza stress.</p>
     </a>
 
-    <a href="/lifelong-learner" class="lang-card">
-      <div class="card-icon">🚀</div>
+        <a href="/lifelong-learner" class="lang-card">
+      <div class="card-icon">🦉</div>
       <h3>Lifelong Learner</h3>
-      <p>Strategie avanzate per chi vuole integrare l'inglese per tutta la vita.</p>
+      <p>Mai troppo tardi. Il percorso e la motivazione per gli adulti che iniziano a studiare l'inglese.</p>
     </a>
+
 
     <a href="/speaking" class="lang-card">
       <div class="card-icon">🗣️</div>
