@@ -1,0 +1,38 @@
+---
+layout: default
+title: Il Blog - FluenteMente
+permalink: /blog/
+---
+
+<section class="language-cards-section">
+  <h1 class="section-title">Ultimi Articoli</h1>
+  <p class="section-subtitle">Tutte le guide pratiche, il vocabolario e le strategie di apprendimento in un unico posto.</p>
+  
+  <div class="cards-grid">
+    
+    {% assign articoli = site.pages | where: "type", "articolo" | sort: "date" | reverse %}
+    
+    {% for articolo in articoli %}
+      <div class="lang-card">
+        
+        {% if articolo.tags %}
+          <div class="card-tags" style="margin-bottom: 15px;">
+            {% for tag in articolo.tags %}
+              <a href="{{ '/tags/' | relative_url }}#{{ tag | slugify }}" class="badge" style="text-decoration: none; margin-right: 5px; transition: background-color 0.2s;">#{{ tag }}</a>
+            {% endfor %}
+          </div>
+        {% endif %}
+        
+        <h3 style="margin-top: 0;">
+          <a href="{{ articolo.url | relative_url }}" style="color: inherit; text-decoration: none;">{{ articolo.title }}</a>
+        </h3>
+        
+        <p>{{ articolo.description }}</p>
+        
+        <a href="{{ articolo.url | relative_url }}" class="card-btn" style="text-decoration: none; display: inline-block; margin-top: auto; padding-top: 15px;">Leggi l'articolo →</a>
+        
+      </div>
+    {% endfor %}
+
+  </div>
+</section>
