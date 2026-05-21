@@ -1,18 +1,22 @@
 <header class="site-header">
-  <!-- Spazio Banner Promozionale -->
   <div class="promo-banner">
     <a href="TUO_LINK_AFFILIATO" class="banner-link">
       Impara una nuova lingua con soli 15 minuti al giorno. <strong>Scopri l'offerta Babbel</strong>
     </a>
   </div>
 
-  <!-- Navigazione Principale -->
   <div class="nav-container">
     <div class="site-logo">
-      <a href="/">FluenteMente</a>
+      <a href="/">Fluente<span class="text-accent">Mente</span></a>
     </div>
     
-    <nav class="main-nav">
+    <button class="hamburger-btn" aria-label="Apri menu" onclick="toggleMenu()">
+      <svg viewBox="0 0 24 24" width="32" height="32" fill="currentColor">
+        <path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/>
+      </svg>
+    </button>
+
+    <nav class="desktop-nav">
       <ul>
         <li><a href="/inglese">Inglese</a></li>
         <li><a href="/spagnolo">Spagnolo</a></li>
@@ -21,4 +25,41 @@
       </ul>
     </nav>
   </div>
+
+  <div id="mobile-menu-overlay" class="mobile-menu-overlay">
+    
+    <div class="mobile-menu-top">
+      <div class="site-logo">Fluente<span class="text-accent">Mente</span></div>
+      <button class="close-btn" aria-label="Chiudi menu" onclick="toggleMenu()">
+        <svg viewBox="0 0 24 24" width="36" height="36" fill="currentColor">
+          <path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/>
+        </svg>
+      </button>
+    </div>
+    
+    <nav class="mobile-nav-links">
+      <a href="/inglese">Inglese</a>
+      <a href="/spagnolo">Spagnolo</a>
+      <a href="/francese">Francese</a>
+      <a href="/metodo">Il Metodo</a>
+    </nav>
+    
+    <div class="mobile-menu-cta">
+      <a href="TUO_LINK_AFFILIATO" class="babbel-btn">🚀 Inizia con Babbel</a>
+    </div>
+  </div>
 </header>
+
+<script>
+  function toggleMenu() {
+    const menu = document.getElementById('mobile-menu-overlay');
+    menu.classList.toggle('is-open');
+    
+    // Blocca lo scroll della pagina quando il menu è aperto
+    if (menu.classList.contains('is-open')) {
+      document.body.style.overflow = 'hidden';
+    } else {
+      document.body.style.overflow = '';
+    }
+  }
+</script>
