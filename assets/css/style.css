@@ -395,3 +395,37 @@ html, body {
     font-size: 1.8rem;
   }
 }
+/* --- Card Attiva (Porta alla sezione inglese) --- */
+.active-lang {
+  border-color: #e0e0e0;
+}
+
+.card-btn {
+  margin-top: 15px;
+  font-weight: 700;
+  color: var(--color-accent);
+  font-size: 0.95rem;
+}
+
+/* --- Card In Arrivo (Disattivate visivamente) --- */
+.coming-soon {
+  opacity: 0.6; /* Rende la card leggermente trasparente */
+  cursor: not-allowed;
+  background-color: #fafafa;
+}
+
+.coming-soon:hover {
+  transform: none; /* Elimina l'effetto sollevamento */
+  box-shadow: 0 4px 6px rgba(0,0,0,0.03); /* Mantiene l'ombra leggera di base */
+  border-color: #eaeaea;
+}
+
+.badge {
+  margin-top: 15px;
+  background-color: #e2e8f0;
+  color: #475569;
+  padding: 4px 12px;
+  border-radius: 20px;
+  font-size: 0.8rem;
+  font-weight: 600;
+}
