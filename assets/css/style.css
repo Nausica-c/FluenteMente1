@@ -527,3 +527,83 @@ html, body {
     font-size: 1rem;
   }
 }
+/* =========================================
+   LAYOUT ARTICOLO (Lettura Discorsiva)
+========================================= */
+.article-container {
+  max-width: 760px; /* Misura ottimale per non stancare l'occhio leggendo */
+  margin: 0 auto;
+  padding: 20px 15px 60px; /* Più spazio in basso prima del footer */
+}
+
+.article-title {
+  font-size: 2.4rem;
+  color: var(--color-text-main);
+  margin: 0 0 24px 0;
+  letter-spacing: -0.5px;
+  line-height: 1.2;
+}
+
+/* --- Formattazione del Testo --- */
+.article-content p {
+  font-size: 1.1rem;
+  line-height: 1.8; /* Interlinea molto ariosa */
+  color: #333333;
+  margin-bottom: 24px;
+}
+
+/* Sottotitoli all'interno dell'articolo */
+.article-content h2 {
+  font-size: 1.8rem;
+  color: var(--color-text-main);
+  margin: 48px 0 16px;
+  border-bottom: 2px solid var(--color-banner-bg);
+  padding-bottom: 8px;
+}
+
+.article-content h3 {
+  font-size: 1.4rem;
+  color: var(--color-text-main);
+  margin: 32px 0 12px;
+}
+
+/* --- Citazioni e Note (Blockquote) --- */
+.article-content blockquote {
+  background-color: #f8fafc;
+  border-left: 4px solid var(--color-accent);
+  margin: 32px 0;
+  padding: 16px 24px;
+  font-style: italic;
+  color: #475569;
+  border-radius: 0 8px 8px 0;
+}
+
+.article-content blockquote p {
+  margin-bottom: 0; /* Rimuove lo spazio extra dentro la citazione */
+}
+
+/* --- Liste Puntate e Numerate --- */
+.article-content ul, 
+.article-content ol {
+  margin-bottom: 28px;
+  padding-left: 24px;
+  line-height: 1.8;
+  font-size: 1.1rem;
+  color: #333333;
+}
+
+.article-content li {
+  margin-bottom: 12px;
+}
+
+/* Responsive per smartphone */
+@media (max-width: 480px) {
+  .article-title {
+    font-size: 2rem;
+  }
+  .article-content p, 
+  .article-content ul, 
+  .article-content ol {
+    font-size: 1.05rem;
+  }
+    }
