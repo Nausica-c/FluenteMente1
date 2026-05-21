@@ -1,0 +1,229 @@
+/* --- Variabili di Sistema --- */
+:root {
+  --color-text-main: #1a1a1a;
+  --color-bg-main: #ffffff;
+  --color-accent: #ff5a00; /* Arancione ad alto contrasto, simile a Babbel */
+  --color-banner-bg: #f4f4f4;
+  --font-primary: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}
+
+/* --- Resets di Base --- */
+.site-header {
+  font-family: var(--font-primary);
+  background-color: var(--color-bg-main);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  width: 100%;
+}
+
+/* --- Spazio Banner --- */
+.promo-banner {
+  background-color: var(--color-banner-bg);
+  text-align: center;
+  padding: 10px 15px;
+  border-bottom: 1px solid #e0e0e0;
+  /* Min-height garantisce che il layout non "salti" se il banner carica in ritardo */
+  min-height: 44px; 
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.promo-banner .banner-link {
+  color: var(--color-text-main);
+  text-decoration: none;
+  font-size: 0.9rem;
+  letter-spacing: 0.3px;
+  transition: color 0.2s ease;
+}
+
+.promo-banner .banner-link strong {
+  color: var(--color-accent);
+}
+
+.promo-banner .banner-link:hover {
+  opacity: 0.8;
+}
+
+/* --- Contenitore Navigazione --- */
+.nav-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 16px 24px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+/* --- Branding --- */
+.site-logo a {
+  font-size: 1.4rem;
+  font-weight: 800;
+  color: var(--color-text-main);
+  text-decoration: none;
+  letter-spacing: -0.5px;
+}
+
+/* --- Menu --- */
+.main-nav ul {
+  list-style: none;
+  display: flex;
+  gap: 24px;
+  margin: 0;
+  padding: 0;
+}
+
+.main-nav a {
+  text-decoration: none;
+  color: var(--color-text-main);
+  font-weight: 600;
+  font-size: 0.95rem;
+  transition: color 0.2s ease;
+}
+
+.main-nav a:hover {
+  color: var(--color-accent);
+}
+
+/* --- Responsive (Mobile-First base) --- */
+@media (max-width: 768px) {
+  .nav-container {
+    flex-direction: column;
+    gap: 12px;
+    padding: 12px 16px;
+  }
+  
+  .main-nav ul {
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 16px;
+  }
+  }/* --- Footer Base --- */
+.site-footer {
+  /* Usa un grigio molto scuro per far risaltare il testo bianco */
+  background-color: var(--color-text-main); 
+  color: #ffffff;
+  font-family: var(--font-primary);
+  padding: 40px 20px 20px;
+  margin-top: 60px;
+}
+
+.footer-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+  padding-bottom: 30px;
+}
+
+/* --- Tipografia Footer --- */
+.footer-brand h4 {
+  font-size: 1.2rem;
+  font-weight: 700;
+  margin: 0 0 10px 0;
+  letter-spacing: -0.3px;
+}
+
+.footer-brand p {
+  font-size: 0.9rem;
+  color: #cccccc;
+  margin: 0;
+  line-height: 1.5;
+  max-width: 300px;
+}
+
+/* --- Navigazione Footer --- */
+.footer-links {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.footer-nav {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.footer-nav a {
+  color: #ffffff;
+  text-decoration: none;
+  font-size: 0.95rem;
+  transition: color 0.2s ease;
+}
+
+.footer-nav a:hover {
+  color: var(--color-accent); /* Riprende l'arancione dell'header */
+}
+
+/* --- Pulsante Pinterest --- */
+.pinterest-link {
+  display: inline-block;
+  color: #ffffff;
+  background-color: #E60023; /* Rosso ufficiale Pinterest */
+  padding: 10px 20px;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 0.9rem;
+  transition: background-color 0.2s ease;
+  text-align: center;
+}
+
+.pinterest-link:hover {
+  background-color: #ad081b;
+}
+
+/* --- Copyright --- */
+.footer-bottom {
+  max-width: 1200px;
+  margin: 20px auto 0;
+  text-align: center;
+  font-size: 0.8rem;
+  color: #888888;
+}
+
+/* --- Responsive (Tablet e Desktop) --- */
+@media (min-width: 768px) {
+  .footer-container {
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+  }
+  
+  .footer-links {
+    flex-direction: row;
+    align-items: flex-start;
+    gap: 60px;
+  }
+}
+
+/* --- Impaginazione Base (Flexbox) --- */
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.site-body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh; /* Forza il body a occupare almeno il 100% dell'altezza dello schermo */
+}
+
+/* L'area main occupa tutto lo spazio disponibile tra header e footer */
+.site-main {
+  flex: 1; /* Spinge il footer verso il basso */
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 40px 20px; /* Dà respiro ai contenuti rispetto ai bordi */
+  box-sizing: border-box;
+      }
