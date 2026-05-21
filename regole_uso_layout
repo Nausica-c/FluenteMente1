@@ -1,0 +1,19 @@
+
+### 1. layout: articolo (Testo discorsivo, arioso e da leggere)
+Usa questo layout quando devi spiegare un concetto, dare consigli o raccontare qualcosa. Il testo largo e le citazioni in evidenza renderanno la lettura piacevole e scorrevole.
+ * **Metodo:** Per spiegare tecniche di studio e organizzazione del tempo.
+ * **Mindset:** Per articoli psicologici, superamento dei blocchi e motivazione.
+ * **Lifelong Learner:** Per guide e consigli dedicati agli adulti.
+ * **Speaking:** Per spiegare *come* sciogliere la lingua e fare pratica.
+ * **Curiosità:** Per aneddoti culturali, differenze tra UK e USA, o l'origine dello slang.
+### 2. layout: vocabolario (Flashcard e liste rapide ad alto contrasto)
+Usa questo layout ogni volta che il cuore dell'articolo è una **lista di vocaboli o di frasi situazionali**. Basterà scriverli come tabella Markdown e il CSS li trasformerà in card mobili perfette per il ripasso rapido.
+ * **Vocabolario Pratico:** Per tutte le liste tematiche (es. cibo, casa, sport).
+ * **Viaggio:** Perfetto per le frasi di sopravvivenza in aeroporto, hotel, ristorante.
+ * **Business:** Ideale per le formule da usare nelle email formali, riunioni o call.
+### 3. layout: grammatica (Formule visive, verde/rosso)
+Usa questo layout quando devi insegnare regole strutturali o correggere vizi di forma. L'uso dei box azzurri per le formule e dei box verde/rosso (✅ / ❌) aiuta a memorizzare visivamente i pattern giusti.
+ * **Grammatica Pratica:** Per spiegare tempi verbali, preposizioni, articoli.
+ * **Errori Comuni:** Questo layout è la "morte sua" per i classici scivoloni degli italiani (ti permette di mostrare subito la frase sbagliata barrata di rosso e quella giusta in verde).
+ * **Beginner:** Visto che chi parte da zero ha bisogno di pilastri molto chiari e visivi, i box colorati aiuteranno a non farsi spaventare dalle regole iniziali.
+Vogliamo fare subito una prova pratica? Se hai già sottomano un pezzo del tuo progetto sulle parole della Oxford 3000 o qualche frase situazionale per il lavoro o il viaggio, incollalo pure qui: te lo converto al volo con il Front Matter giusto così lo vedi in azione!
