@@ -101,14 +101,16 @@
     gap: 16px;
   }
   }/* --- Footer Base --- */
+
 .site-footer {
-  background-color: var(--color-footer-bg); 
-  color: #f8fafc; /* Un bianco leggermente ammorbidito per non affaticare la vista */
+  background-color: var(--color-footer-bg); /* Questo applica il colore blu scuro */
+  color: #f8fafc; 
   font-family: var(--font-primary);
   padding: 40px 20px 20px;
   margin-top: 60px;
-  border-top: 4px solid var(--color-accent); /* Linea arancione superiore per richiamare il brand */
- }
+  border-top: 4px solid var(--color-accent); /* Linea superiore arancione */
+}
+
 
 .footer-container {
   max-width: 1200px;
