@@ -85,5 +85,15 @@ Più ti esponi a contenuti in inglese che capisci (senza dover tradurre tutto), 
 </div>
 
 ### Vuoi fare il prossimo passo?
-* 🚀 **[Come sbloccare lo Speaking da zero]({{ '/inglese/speaking/come-sbloccare-speaking-inglese/' | relative_url }})**
-* 🗣️ **[Frasi pronte per la conversazione]({{ '/inglese/speaking/frasi-inglesi-conversazione/' | relative_url }})**
+
+{% capture link_prossimi_passi %}
+• <a href="{{ '/inglese/speaking/come-sbloccare-speaking-inglese/' | relative_url }}">Come sbloccare lo Speaking da zero</a><br>
+• <a href="{{ '/inglese/speaking/frasi-inglesi-conversazione/' | relative_url }}">Frasi pronte per la conversazione</a>
+{% endcapture %}
+
+{% include box-approfondimento.html 
+    tipo_classe="in-breve-speaking" 
+    titolo="🚀 Continua il tuo percorso:" 
+    contenuto=link_prossimi_passi 
+%}
+
