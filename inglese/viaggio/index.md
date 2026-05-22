@@ -27,34 +27,36 @@ Quando sei all'estero, la teoria passa in secondo piano. Al gate di un aeroporto
 Il segreto per viaggiare in inglese senza stress non è conoscere tutta la lingua, ma padroneggiare i "kit di sopravvivenza" specifici per ogni contesto. In questa sezione abbandoniamo la grammatica complessa per concentrarci su frasi pronte, vocabolario essenziale e risposte automatiche.
 
 ## Aree principali
-Abbiamo diviso il percorso nelle situazioni esatte che affronterai durante il tuo viaggio, così puoi studiare (o ripassare al volo) solo ciò che ti serve davvero:
-
-* **Aeroporto e trasporti:** Dal superamento dei controlli di sicurezza fino a come chiamare un taxi o chiedere indicazioni.
-* **Hotel e alloggi:** Le formule corrette per fare check-in, check-out o comunicare con il tuo host su Airbnb.
-* **Ristorante:** Ordinare il cibo che desideri, chiedere variazioni e capire il conto.
-* **Shopping ed emergenze:** Chiedere i prezzi, negoziare e sapere cosa dire in caso di necessità mediche.
-* **Socialità:** Rompere il ghiaccio con altri viaggiatori e gestire l'inglese in contesti informali.
+Abbiamo diviso il percorso nelle situazioni esatte che affronterai durante il tuo viaggio, così puoi studiare (o ripassare al volo) solo ciò che ti serve davvero.
 
 ---
 
-## ✈️ Aeroporto e Spostamenti
-* [Frasi in inglese per l’aeroporto: guida completa](/inglese/viaggio/frasi-aeroporto-inglese/)
-* [Check-in in aeroporto: 5 frasi chiave](/inglese/viaggio/aeroporto-check-in/)
-* [Come comprare biglietti e prenotare taxi](/inglese/viaggio/comprare-biglietti-inglese/)
-* [Come chiedere indicazioni](/inglese/viaggio/chiedere-indicazioni-inglese/)
+<div class="in-breve-box" style="border-left-color: #3b82f6; background-color: #f0f9ff; color: #1e3a8a; margin-bottom: 25px;">
+  <strong>✈️ Aeroporto e Spostamenti</strong><br>
+  • <a href="{{ '/inglese/viaggio/frasi-aeroporto-inglese/' | relative_url }}">Frasi in inglese per l’aeroporto: guida completa</a><br>
+  • <a href="{{ '/inglese/viaggio/aeroporto-check-in/' | relative_url }}">Check-in in aeroporto: 5 frasi chiave</a><br>
+  • <a href="{{ '/inglese/viaggio/comprare-biglietti-inglese/' | relative_url }}">Come comprare biglietti e prenotare taxi</a><br>
+  • <a href="{{ '/inglese/viaggio/chiedere-indicazioni-inglese/' | relative_url }}">Come chiedere indicazioni stradali</a>
+</div>
 
-## 🏨 Hotel e Alloggi
-* [Check-in e Check-out in hotel: frasi essenziali](/inglese/viaggio/check-in-hotel-inglese/)
-* [Vocabolario hotel e Airbnb](/inglese/viaggio/vocabolario-hotel-inglese/)
+<div class="in-breve-box" style="border-left-color: #22c55e; background-color: #f0fdf4; color: #166534; margin-bottom: 25px;">
+  <strong>🏨 Hotel e Alloggi</strong><br>
+  • <a href="{{ '/inglese/viaggio/check-in-hotel-inglese/' | relative_url }}">Check-in e Check-out in hotel: frasi essenziali</a><br>
+  • <a href="{{ '/inglese/viaggio/vocabolario-hotel-inglese/' | relative_url }}">Vocabolario hotel e comunicazioni Airbnb</a>
+</div>
 
-## 🍔 Ristorante e Shopping
-* [Ordinare al ristorante e parlare con i camerieri](/inglese/viaggio/ordinare-ristorante-inglese/)
-* [Shopping all’estero: chiedere prezzi e negoziare](/inglese/viaggio/shopping-estero-inglese/)
+<div class="in-breve-box" style="border-left-color: #f97316; background-color: #fff7ed; color: #9a3412; margin-bottom: 25px;">
+  <strong>🍔 Ristorante e Shopping</strong><br>
+  • <a href="{{ '/inglese/viaggio/ordinare-ristorante-inglese/' | relative_url }}">Ordinare al ristorante e parlare con i camerieri</a><br>
+  • <a href="{{ '/inglese/viaggio/shopping-estero-inglese/' | relative_url }}">Shopping all’estero: chiedere i prezzi e negoziare</a>
+</div>
 
-## 🌍 Socialità e Situazioni Specifiche
-* [Inglese Social e Dating: Rompere il ghiaccio](/inglese/viaggio/dating-solo-travel-inglese/)
-* [Emergenze e Salute: la guida salvavita](/inglese/viaggio/emergenze-salute-inglese/)
-* [Business Travel e Gestione Reclami](/inglese/viaggio/frasi-reclami-inglese/)
+<div class="in-breve-box" style="border-left-color: #a855f7; background-color: #faf5ff; color: #6b21a8; margin-bottom: 25px;">
+  <strong>🌍 Socialità e Gestione Imprevisti</strong><br>
+  • <a href="{{ '/inglese/viaggio/dating-solo-travel-inglese/' | relative_url }}">Inglese Social e Dating: Rompere il ghiaccio</a><br>
+  • <a href="{{ '/inglese/viaggio/emergenze-salute-inglese/' | relative_url }}">Emergenze e Salute: la guida salvavita da farmacia e pronto soccorso</a><br>
+  • <a href="{{ '/inglese/viaggio/frasi-reclami-inglese/' | relative_url }}">Business Travel e Gestione Reclami: farsi valere con assertività</a>
+</div>
 
 ---
 
