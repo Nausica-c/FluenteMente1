@@ -1,5 +1,5 @@
 ---
-layout: articolo
+layout: vocabolario 
 title: "Inglese per Business Travel e Reclami: Come Farsi Valere all'Estero"
 date: 2026-03-29
 description: "Guida all'inglese per viaggi di lavoro e reclami. Impara le frasi per gestire ritardi, chiedere rimborsi e farti rispettare all'estero."
