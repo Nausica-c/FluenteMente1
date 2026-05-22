@@ -17,7 +17,7 @@ tags: [errori, speaking, beginner] # Inserisci i tag minuscoli separati da virgo
 
 # --- Metadati ---
 date: 2026-05-21        # Usato per ordinare dal più recente (Formato: AAAA-MM-GG)
-author: Alessandra
+author: FluenteMente 
 # image: /assets/img/copertina.jpg # (Opzionale) Se vorrai aggiungere immagini per le condivisioni social
 ---
 
