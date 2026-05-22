@@ -688,35 +688,47 @@ a:hover {
 }
 
 /* Box per i link finali */
-.link-box-finale {
-    background-color: #FFF5E6; /* Arancione chiarissimo di sfondo */
-    border: 2px solid #FF8C00;  /* Bordo arancione */
-    padding: 20px;
-    margin-top: 30px;
-    border-radius: 8px;
-    text-align: center;
+/* --- BOX "IN BREVE" DINAMICI --- */
+
+.in-breve-box {
+    padding: 15px 20px;
+    border-left: 6px solid;
+    margin-bottom: 20px;
+    border-radius: 4px;
+    background-color: #f9f9f9; /* Fallback */
 }
 
-.link-box-finale h3 {
+/* Stile base per i link interni ai box (arancione come richiesto) */
+.in-breve-box a {
     color: #FF8C00;
-    margin-top: 0;
-}
-.bottone-babbel {
-    display: inline-block;
-    background-color: #FF8C00; /* Arancione principale */
-    color: #ffffff; /* Testo bianco */
-    padding: 12px 24px;
-    text-decoration: none;
-    border-radius: 5px;
     font-weight: bold;
-    text-align: center;
-    transition: background-color 0.3s ease;
-    margin-top: 15px;
-    border: none;
-    cursor: pointer;
+    text-decoration: none;
 }
 
-.bottone-babbel:hover {
-    background-color: #e07b00; /* Arancione leggermente più scuro per l'effetto hover */
-    color: #ffffff;
+.in-breve-box a:hover {
+    text-decoration: underline;
 }
+
+/* Varianti colori (da usare nel parametro tipo_classe) */
+
+/* Classe per lo Speaking (Verde) */
+.in-breve-speaking {
+    border-left-color: #22c55e;
+    background-color: #f0fdf4;
+    color: #166534;
+}
+
+/* Classe per Zero (Arancione) */
+.in-breve-zero {
+    border-left-color: #f97316;
+    background-color: #fff7ed;
+    color: #9a3412;
+}
+
+/* Classe per Stallo (Blu) */
+.in-breve-stallo {
+    border-left-color: #3b82f6;
+    background-color: #f0f9ff;
+    color: #1e3a8a;
+}
+
