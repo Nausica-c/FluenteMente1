@@ -29,96 +29,49 @@ Se viaggi da solo, vuoi fare nuove amicizie o speri in un incontro speciale, dev
 ## 1. Icebreakers: Come rompere il ghiaccio
 Il segreto non è inventarsi frasi geniali, ma fare leva sul contesto.
 
-<div class="vocabolario-list">
-  <div class="vocab-item">
-    <strong>"Is this seat taken?"</strong>
-    <p><em>È occupato questo posto?</em></p>
-  </div>
-  <div class="vocab-item">
-    <strong>"Where are you traveling from?"</strong>
-    <p><em>Da dove arrivi? (Meglio di "Where are you from?")</em></p>
-  </div>
-  <div class="vocab-item">
-    <strong>"How long are you staying in [Città]?"</strong>
-    <p><em>Quanto ti fermi qui?</em></p>
-  </div>
-  <div class="vocab-item">
-    <strong>"What brings you to [Città]?"</strong>
-    <p><em>Cosa ti porta a...?</em></p>
-  </div>
-  <div class="vocab-item">
-    <strong>"I love your jacket! Where did you get it?"</strong>
-    <p><em>Adoro la tua giacca! Dove l'hai presa?</em></p>
-  </div>
-</div>
+| Inglese | Italiano |
+| :--- | :--- |
+| **"Is this seat taken?"** | *È occupato questo posto?* |
+| **"Where are you traveling from?"** | *Da dove arrivi? (Meglio di "Where are you from?")* |
+| **"How long are you staying in [Città]?"** | *Quanto ti fermi qui?* |
+| **"What brings you to [Città]?"** | *Cosa ti porta a...?* |
+| **"I love your jacket! Where did you get it?"** | *Adoro la tua giacca! Dove l'hai presa?* |
 
 ---
 
 ## 2. L'arte dello Small Talk
 Per non far morire la conversazione, usa queste espressioni per "rimbalzare" la domanda e mostrare entusiasmo.
 
-<div class="vocabolario-list">
-  <div class="vocab-item">
-    <strong>"How about you? / What about you?"</strong>
-    <p><em>E tu?</em></p>
-  </div>
-  <div class="vocab-item">
-    <strong>"That's awesome!"</strong>
-    <p><em>Fantastico!</em></p>
-  </div>
-  <div class="vocab-item">
-    <strong>"No way!"</strong>
-    <p><em>Non ci credo! / Ma dai!</em></p>
-  </div>
-  <div class="vocab-item">
-    <strong>"I know, right?"</strong>
-    <p><em>Vero? / Assolutamente!</em></p>
-  </div>
-</div>
+| Inglese | Italiano |
+| :--- | :--- |
+| **"How about you? / What about you?"** | *E tu?* |
+| **"That's awesome!"** | *Fantastico!* |
+| **"No way!"** | *Non ci credo! / Ma dai!* |
+| **"I know, right?"** | *Vero? / Assolutamente!* |
 
 ---
 
 ## 3. Dating e Flirting
 Mantieni il tono informale e rilassato.
 
-<div class="vocabolario-list">
-  <div class="vocab-item">
-    <strong>"Would you like to grab a coffee sometime?"</strong>
-    <p><em>Ti andrebbe di prendere un caffè?</em></p>
-  </div>
-  <div class="vocab-item">
-    <strong>"Are you free later? We could get a drink."</strong>
-    <p><em>Sei libero/a più tardi? Potremmo prendere qualcosa da bere.</em></p>
-  </div>
-  <div class="vocab-item">
-    <strong>"I'm going to [Posto] tomorrow, do you want to tag along?"</strong>
-    <p><em>Domani vado a..., ti va di unirti?</em></p>
-  </div>
-  <div class="vocab-item">
-    <strong>"You look amazing tonight."</strong>
-    <p><em>Stai benissimo stasera.</em></p>
-  </div>
-</div>
+| Inglese | Italiano |
+| :--- | :--- |
+| **"Would you like to grab a coffee sometime?"** | *Ti andrebbe di prendere un caffè?* |
+| **"Are you free later? We could get a drink."** | *Sei libero/a più tardi? Potremmo prendere qualcosa da bere.* |
+| **"I'm going to [Posto] tomorrow, do you want to tag along?"** | *Domani vado a..., ti va di unirti?* |
+| **"You look amazing tonight."** | *Stai benissimo stasera.* |
 
 ---
 
 ## 4. La Via di Fuga (Chiusura educata)
 
-<div class="vocabolario-list">
-  <div class="vocab-item">
-    <strong>"It was really nice talking to you, but I have to run."</strong>
-    <p><em>È stato bello parlare con te, ma devo scappare.</em></p>
-  </div>
-  <div class="vocab-item">
-    <strong>"Let's exchange numbers! / Are you on Instagram?"</strong>
-    <p><em>Scambiamoci i numeri! / Hai Instagram?</em></p>
-  </div>
-</div>
+| Inglese | Italiano |
+| :--- | :--- |
+| **"It was really nice talking to you, but I have to run."** | *È stato bello parlare con te, ma devo scappare.* |
+| **"Let's exchange numbers! / Are you on Instagram?"** | *Scambiamoci i numeri! / Hai Instagram?* |
 
 ---
 
 <div style="text-align: center; margin-top: 40px;">
   <p><strong>Il consiglio di FluenteMente:</strong> Nello small talk non c'è tempo per pensare alla grammatica. Se vuoi goderti la vita sociale all'estero, allena la prontezza di riflessi con dialoghi interattivi.</p>
-  
-  <a href="{{ '/recensioni/babbel/' | relative_url }}" style="color: #f97316; font-weight: 700; text-decoration: none; font-size: 1.1rem;">Allenati allo Small Talk con Babbel ➔</a>
 </div>
