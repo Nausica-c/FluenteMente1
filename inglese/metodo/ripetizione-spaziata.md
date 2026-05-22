@@ -5,7 +5,7 @@
 layout: articolo
 title: "Ripetizione Spaziata: La Tecnica Scientifica per Ricordare l’Inglese"
 description: "Il problema non è dimenticare l’inglese, ma ripassarlo nel modo sbagliato. Scopri come hackerare la tua memoria con la Ripetizione Spaziata."
-permalink: /inglese/metodo/ripetizione-spaziata-inglese/
+permalink: /inglese/metodo/ripetizione-spaziata/
 
 # --- Configurazione del Motore del Sito ---
 type: articolo
