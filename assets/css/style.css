@@ -720,31 +720,28 @@ a:hover {
 .in-breve-mindset { border-left-color: #ca8a04; background-color: #fffbeb; color: #854d0e; }
 .in-breve-reale { border-left-color: #92400e; background-color: #fffbeb; color: #78350f; }
 
-/* Stile unico e universale per il Box Babbel */
+/* =========================================
+   BOX BABBEL (Stile Unico e Definitivo)
+========================================= */
 .link-box-finale {
-    background-color: #f0f9ff;
-    border: 2px solid #3b82f6;
+    background-color: #f0f9ff !important;
+    border: 2px solid #3b82f6 !important;
     padding: 25px;
     margin: 40px 0;
     border-radius: 12px;
     text-align: center;
+    color: #334155 !important; /* Testo del paragrafo */
 }
 
 .link-box-finale h3 {
-    color: #1e3a8a;
+    color: #1e3a8a !important; /* Titolo blu scuro elegante */
     margin-top: 0;
     font-size: 1.5rem;
 }
 
-.link-box-finale p {
-    color: #334155;
-    line-height: 1.6;
-    margin-bottom: 20px;
-}
-
 .bottone-babbel {
     display: inline-block;
-    background-color: #3b82f6;
+    background-color: #3b82f6 !important; /* Bottone blu */
     color: #ffffff !important;
     padding: 14px 28px;
     text-decoration: none !important;
@@ -754,18 +751,6 @@ a:hover {
 }
 
 .bottone-babbel:hover {
-    background-color: #2563eb;
+    background-color: #2563eb !important;
 }
 
-/* Correzione per il box Babbel */
-.link-box-finale {
-    color: #333333 !important; /* Forza il testo a essere grigio scuro */
-}
-
-.link-box-finale h3 {
-    color: #FF8C00 !important; /* Forza il titolo ad essere arancione */
-}
-
-.bottone-babbel {
-    color: #ffffff !important; /* Forza il testo del bottone a essere bianco */
-}
