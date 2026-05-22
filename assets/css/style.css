@@ -720,6 +720,43 @@ a:hover {
 .in-breve-mindset { border-left-color: #ca8a04; background-color: #fffbeb; color: #854d0e; }
 .in-breve-reale { border-left-color: #92400e; background-color: #fffbeb; color: #78350f; }
 
+/* Stile unico e universale per il Box Babbel */
+.link-box-finale {
+    background-color: #f0f9ff;
+    border: 2px solid #3b82f6;
+    padding: 25px;
+    margin: 40px 0;
+    border-radius: 12px;
+    text-align: center;
+}
+
+.link-box-finale h3 {
+    color: #1e3a8a;
+    margin-top: 0;
+    font-size: 1.5rem;
+}
+
+.link-box-finale p {
+    color: #334155;
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+
+.bottone-babbel {
+    display: inline-block;
+    background-color: #3b82f6;
+    color: #ffffff !important;
+    padding: 14px 28px;
+    text-decoration: none !important;
+    border-radius: 8px;
+    font-weight: bold;
+    transition: background-color 0.2s ease;
+}
+
+.bottone-babbel:hover {
+    background-color: #2563eb;
+}
+
 /* Correzione per il box Babbel */
 .link-box-finale {
     color: #333333 !important; /* Forza il testo a essere grigio scuro */
