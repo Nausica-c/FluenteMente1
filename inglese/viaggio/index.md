@@ -11,6 +11,7 @@ permalink: /inglese/viaggio/
 type: pillar
 language: inglese
 cluster: Viaggio
+category : viaggio 
 tags: [viaggio, frasi-pratiche]
 date: 2026-05-22
 author: FluenteMente 
