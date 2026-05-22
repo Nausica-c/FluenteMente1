@@ -1,51 +1,53 @@
 {% assign cat = page.category %}
 
 <div class="link-box-finale">
-    {% case cat %}
+        {% case cat %}
         {% when 'speaking' %}
             <h3>Sblocca il tuo parlato</h3>
-            <p>La teoria non basta se non apri bocca. Con Babbel alleni la pronuncia e i dialoghi reali per trasformare l'esitazione in fluidità.</p>
+            <p>La teoria non basta se non apri bocca. Con Babbel alleni la pronuncia e i dialoghi reali per trasformare l'esitazione in fluidità e parlare con sicurezza.</p>
+        
         {% when 'zero' %}
-            <h3>Parti da zero con sicurezza</h3>
-            <p>Non farti bloccare dalla paura di sbagliare. Babbel ti guida passo dopo passo con le basi fondamentali per costruire le tue prime frasi.</p>
+            <h3>Parti da zero con successo</h3>
+            <p>Non farti bloccare dalla paura di sbagliare. Babbel ti guida passo dopo passo, costruendo le tue prime frasi con un metodo creato per chi inizia ora.</p>
+        
         {% when 'stallo' %}
-            <h3>Supera lo stallo</h3>
-            <p>Se senti di non fare progressi da tempo, è il momento di cambiare metodo. Babbel ti aiuta a riaccendere la motivazione con esercizi mirati.</p>
+            <h3>Esci dallo stallo</h3>
+            <p>Se senti di non fare progressi da tempo, è il momento di cambiare metodo. Babbel riaccende la tua motivazione con lezioni brevi, intense e sempre stimolanti.</p>
+        
         {% when 'vocabolario' %}
-            <h3>Impara le parole giuste</h3>
-            <p>Smetti di studiare liste infinite. Con Babbel impari il vocabolario contestualizzato, pronto per essere usato nelle tue conversazioni reali.</p>
+            <h3>Memorizza solo ciò che serve</h3>
+            <p>Smetti di studiare liste infinite di parole che dimenticherai domani. Con Babbel impari il vocabolario contestualizzato, pronto per le tue conversazioni reali.</p>
+        
         {% when 'ascolto' %}
             <h3>Allena il tuo orecchio</h3>
-            <p>Capire un madrelingua è la sfida più grande. Babbel ti espone a dialoghi reali per abituare il tuo orecchio ai suoni naturali della lingua.</p>
+            <p>Capire i madrelingua è la sfida più grande. Babbel ti espone a dialoghi reali e ritmi naturali, per far smettere al tuo cervello di "lottare" per capire.</p>
+        
         {% when 'viaggio' %}
             <h3>Parti senza ansia!</h3>
-            <p>Non farti trovare impreparato in aeroporto o al ristorante. Babbel ha corsi intensivi per gestire ogni situazione all'estero con naturalezza.</p>
+            <p>Non farti trovare impreparato in aeroporto o al ristorante. Babbel ha corsi intensivi pensati per farti gestire ogni situazione all'estero con naturalezza.</p>
+        
         {% when 'grammatica' %}
             <h3>Grammatica pratica, non teorica</h3>
-            <p>Basta regole astratte che dimentichi subito. Con Babbel impari la struttura della lingua direttamente mentre la applichi.</p>
+            <p>Basta regole astratte che restano sui libri. Con Babbel impari la struttura della lingua direttamente mentre la applichi in contesti di vita vera.</p>
+        
         {% when 'business' %}
             <h3>Inglese per il tuo lavoro</h3>
-            <p>Il lavoro richiede velocità e precisione. Babbel ti aiuta a padroneggiare il lessico professionale per comunicare con sicurezza con i colleghi.</p>
+            <p>Il lavoro richiede velocità e precisione. Babbel ti aiuta a padroneggiare il lessico professionale per comunicare con i colleghi e chiudere affari senza stress.</p>
+        
         {% when 'risorse' %}
-            <h3>Trova le risorse ideali</h3>
-            <p>Oltre a questa guida, hai bisogno di un percorso strutturato. Babbel è la risorsa definitiva per chi vuole imparare con un metodo provato.</p>
+            <h3>Trova il tuo percorso ideale</h3>
+            <p>Hai trovato la risorsa giusta, ma ti manca la struttura. Babbel è la base perfetta per trasformare le singole nozioni in un percorso di apprendimento solido.</p>
+        
         {% when 'mindset' %}
-            <h3>Cambia la tua mentalità</h3>
-            <p>Il limite principale è il tuo mindset. Babbel ti aiuta a mantenere l'abitudine costante, rendendo l'apprendimento parte della tua giornata.</p>
+            <h3>Crea l'abitudine vincente</h3>
+            <p>Il limite principale non è il talento, ma la costanza. Babbel rende l'apprendimento parte della tua giornata, aiutandoti a mantenere il focus sui tuoi obiettivi.</p>
+        
         {% when 'reale' %}
-            <h3>Inglese per la vita reale</h3>
-            <p>La lingua non è sui libri, è nelle persone. Con Babbel ti prepari a conversazioni vere, per vivere la lingua e non solo studiarla.</p>
+            <h3>Vivi la lingua, non studiarla</h3>
+            <p>La lingua non è sui libri, è nelle persone. Con Babbel ti prepari a conversazioni vere, per smettere di tradurre e iniziare finalmente a pensare nella lingua.</p>
+        
         {% else %}
             <h3>Vuoi accelerare il tuo inglese?</h3>
-            <p>La costanza batte il talento. Allenati con Babbel per massimizzare i tuoi 15 minuti giornalieri e passare dalla teoria alla pratica reale.</p>
+            <p>La costanza batte il talento. Allenati con Babbel per massimizzare i tuoi 15 minuti giornalieri e passare finalmente dalla teoria alla pratica reale.</p>
     {% endcase %}
-    
-    <a href="{{ site.babbel_affiliate_url }}" rel="sponsored" class="bottone-babbel">
-        🚀 Inizia ora con Babbel
-    </a>
-</div>
-
-<div style="font-size: 0.8rem; color: #888; margin-top: 20px; text-align: center; font-style: italic;">
-    <em>Affiliate Disclosure: Questo articolo contiene link di affiliazione.</em>
-    </div>
     
