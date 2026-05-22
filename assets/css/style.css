@@ -676,3 +676,47 @@ html, body {
   border-bottom: 2px solid var(--color-banner-bg);
   padding-bottom: 8px;
 }
+/* Colore arancione per i link */
+a {
+    color: #FF8C00; /* Arancione */
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Box per i link finali */
+.link-box-finale {
+    background-color: #FFF5E6; /* Arancione chiarissimo di sfondo */
+    border: 2px solid #FF8C00;  /* Bordo arancione */
+    padding: 20px;
+    margin-top: 30px;
+    border-radius: 8px;
+    text-align: center;
+}
+
+.link-box-finale h3 {
+    color: #FF8C00;
+    margin-top: 0;
+}
+.bottone-babbel {
+    display: inline-block;
+    background-color: #FF8C00; /* Arancione principale */
+    color: #ffffff; /* Testo bianco */
+    padding: 12px 24px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    text-align: center;
+    transition: background-color 0.3s ease;
+    margin-top: 15px;
+    border: none;
+    cursor: pointer;
+}
+
+.bottone-babbel:hover {
+    background-color: #e07b00; /* Arancione leggermente più scuro per l'effetto hover */
+    color: #ffffff;
+}
