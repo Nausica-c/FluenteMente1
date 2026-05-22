@@ -1,5 +1,5 @@
 ---
-layout: articolo
+layout: vocabolario 
 title: "Inglese per Emergenze e Salute: Vocabolario, Frasi e Dialoghi Salvavita"
 date: 2026-03-29
 description: "Guida di sopravvivenza in inglese per emergenze mediche. Vocabolario dei sintomi, frasi per la farmacia, come chiamare i soccorsi e dialoghi reali."
