@@ -5,7 +5,7 @@
 layout: articolo
 title: "Il vero motivo per cui capisci l’inglese ma non riesci a parlarlo"
 description: "Capisci film, serie TV e testi in inglese ma ti blocchi appena devi aprire bocca? Scopri la causa scientifica di questo blocco e come risolverlo."
-permalink: /inglese/metodo/capisco-ma-non-parlo-inglese/
+permalink: /inglese/speaking/capisco-ma-non-parlo-inglese/
 
 # --- Configurazione del Motore del Sito ---
 type: articolo
