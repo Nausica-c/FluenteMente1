@@ -2,7 +2,7 @@
 # ==========================================
 # CORE SEO & AUTOMATION
 # ==========================================
-layout: articolo
+layout: vocabolario 
 title: "Inglese Social e Dating in Viaggio: Come Rompere il Ghiaccio"
 description: "Dal primo 'Ciao' all'appuntamento galante: le frasi naturali per fare amicizia, flirtare e gestire lo small talk all'estero."
 permalink: /inglese/viaggio/dating-solo-travel-inglese/
