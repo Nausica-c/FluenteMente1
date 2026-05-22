@@ -11,6 +11,7 @@ permalink: /inglese/viaggio/dating-solo-travel-inglese/
 type: vocabolario
 language: inglese
 cluster: Viaggio
+category : viaggio 
 tags: [viaggio, social, dating, inglese-pratico]
 date: 2026-03-29
 author: Alessandra
