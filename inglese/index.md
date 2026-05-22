@@ -34,7 +34,7 @@ permalink: /inglese/
       <p>Mai troppo tardi. Il percorso e la motivazione per gli adulti che iniziano a studiare l'inglese.</p>
     </a>
 
-    <a href="/speaking/" class="lang-card">
+    <a href="/inglese/speaking/" class="lang-card">
       <div class="card-icon">🗣️</div>
       <h3>Speaking</h3>
       <p>Tecniche per sbloccare la lingua parlata e conversare con sicurezza.</p>
