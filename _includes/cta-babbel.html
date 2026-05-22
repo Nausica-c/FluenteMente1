@@ -1,7 +1,7 @@
 {% assign cat = page.category %}
 
 <div class="link-box-finale">
-        {% case cat %}
+    {% case cat %}
         {% when 'speaking' %}
             <h3>Sblocca il tuo parlato</h3>
             <p>La teoria non basta se non apri bocca. Con Babbel alleni la pronuncia e i dialoghi reali per trasformare l'esitazione in fluidità e parlare con sicurezza.</p>
@@ -51,3 +51,11 @@
             <p>La costanza batte il talento. Allenati con Babbel per massimizzare i tuoi 15 minuti giornalieri e passare finalmente dalla teoria alla pratica reale.</p>
     {% endcase %}
     
+    <a href="{{ site.babbel_affiliate_url }}" rel="sponsored" class="bottone-babbel">
+        🚀 Inizia ora con Babbel
+    </a>
+</div>
+
+<div style="font-size: 0.8rem; color: #888; margin-top: 20px; text-align: center; font-style: italic;">
+    <em>Affiliate Disclosure: Questo articolo contiene link di affiliazione.</em>
+</div>
