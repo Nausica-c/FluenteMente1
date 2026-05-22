@@ -1,4 +1,4 @@
-/* --- Variabili di Sistema --- */
+mi/* --- Variabili di Sistema --- */
 :root {
   --color-text-main: #1a1a1a;
   --color-bg-main: #ffffff;
@@ -676,9 +676,14 @@ html, body {
   border-bottom: 2px solid var(--color-banner-bg);
   padding-bottom: 8px;
 }
-/* Colore arancione per i link */
+
+/* =========================================
+   STILE UNIFICATO LINK E BOX
+========================================= */
+
+/* Link Globali (Arancione) - Sovrascrive qualsiasi impostazione precedente */
 a {
-    color: #FF8C00; /* Arancione */
+    color: #FF8C00 !important;
     text-decoration: none;
     font-weight: bold;
 }
@@ -687,58 +692,30 @@ a:hover {
     text-decoration: underline;
 }
 
-/* --- STILE BOX "IN BREVE" --- */
-
+/* --- BOX "IN BREVE" --- */
 .in-breve-box {
     padding: 15px 20px;
-    border-left: 6px solid;
+    border-left: 6px solid #e0e0e0; /* Bordo di default */
     margin-bottom: 20px;
     border-radius: 4px;
-    background-color: #f9f9f9; /* Fallback */
+    background-color: #f9f9f9;
 }
 
-/* Link arancioni standard per coerenza visiva */
+/* Forza i link dentro i box a ereditare lo stile globale ma a essere ben visibili */
 .in-breve-box a {
-    color: #FF8C00;
-    font-weight: bold;
-    text-decoration: none;
+    color: #FF8C00 !important;
+    text-decoration: underline !important;
 }
 
-.in-breve-box a:hover {
-    text-decoration: underline;
-}
-
-/* --- CLASSI CLUSTER --- */
-
-/* 1. Speaking (Verde) */
+/* --- CLASSI CLUSTER (Solo i colori) --- */
 .in-breve-speaking { border-left-color: #22c55e; background-color: #f0fdf4; color: #166534; }
-
-/* 2. Zero / Principianti (Arancione) */
 .in-breve-zero { border-left-color: #f97316; background-color: #fff7ed; color: #9a3412; }
-
-/* 3. Stallo / Metodo (Blu) */
 .in-breve-stallo { border-left-color: #3b82f6; background-color: #f0f9ff; color: #1e3a8a; }
-
-/* 4. Vocabolario (Viola) */
 .in-breve-vocabolario { border-left-color: #a855f7; background-color: #f5f3ff; color: #6b21a8; }
-
-/* 5. Ascolto (Ciano) */
 .in-breve-ascolto { border-left-color: #06b6d4; background-color: #ecfeff; color: #155e75; }
-
-/* 6. Viaggio (Rosa) */
 .in-breve-viaggio { border-left-color: #f43f5e; background-color: #fff1f2; color: #9f1239; }
-
-/* 7. Grammatica (Giallo) */
 .in-breve-grammatica { border-left-color: #eab308; background-color: #fefce8; color: #854d0e; }
-
-/* 8. Business (Grigio) */
 .in-breve-business { border-left-color: #4b5563; background-color: #f3f4f6; color: #1f2937; }
-
-/* 9. Risorse (Teal) */
 .in-breve-risorse { border-left-color: #14b8a6; background-color: #f0fdfa; color: #115e59; }
-
-/* 10. Mindset (Oro) */
 .in-breve-mindset { border-left-color: #ca8a04; background-color: #fffbeb; color: #854d0e; }
-
-/* 11. Inglese Reale (Terracotta) */
 .in-breve-reale { border-left-color: #92400e; background-color: #fffbeb; color: #78350f; }
