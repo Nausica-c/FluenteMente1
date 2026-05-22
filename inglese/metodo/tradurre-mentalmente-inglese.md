@@ -26,7 +26,7 @@ La vera fluidità, invece, nasce dagli **automatismi**. Un madrelingua non anali
 
 {% capture link_grammatica %}
 • <a href="{{ '/inglese/metodo/grammatica-non-fa-parlare-inglese/' | relative_url }}">Perché la grammatica ti frena</a><br>
-• <a href="{{ '/inglese/metodo/capisco-inglese-ma-non-parlo/' | relative_url }}">Capisco ma non parlo: la verità</a>
+• <a href="{{ '/inglese/speaking/capisco-ma-non-parlo-inglese/' | relative_url }}">Capisco ma non parlo: la verità</a>
 {% endcapture %}
 
 {% include box-approfondimento.html 
