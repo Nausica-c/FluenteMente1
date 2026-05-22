@@ -678,33 +678,80 @@ html, body {
 }
 
 /* =========================================
+   TESTI: STILE UNIFICATO PER TUTTI I LAYOUT
+========================================= */
+
+/* Allinea la larghezza massima per tutti (scegli tu se 760 o 800) */
+.article-container, 
+.grammar-container, 
+.vocab-container {
+  max-width: 760px;
+  margin: 0 auto;
+  padding: 20px 15px 60px;
+}
+
+/* Stile base del testo discorsivo (Titoli e Paragrafi) uguale per tutti */
+.article-content p, 
+.grammar-content p, 
+.vocab-content p, 
+.vocab-content ul, 
+.vocab-content ol {
+  font-size: 1.1rem;
+  line-height: 1.8;
+  color: #333333;
+  margin-bottom: 24px;
+}
+
+/* Allinea il comportamento degli elenchi (liste) in tutti i layout */
+.article-content ul, 
+.article-content ol,
+.grammar-content ul,
+.grammar-content ol,
+.vocab-content ul,
+.vocab-content ol {
+  margin-bottom: 28px;
+  padding-left: 24px;
+  line-height: 1.8;
+  font-size: 1.1rem;
+  color: #333333;
+}
+/* =========================================
    STILE UNIFICATO LINK E BOX
 ========================================= */
 
-/* Link Globali (Arancione) - Sovrascrive qualsiasi impostazione precedente */
-a {
-    color: #FF8C00 !important;
+/* Link nei testi (Arancione) - Colpisce solo i contenuti, salvando menu e footer */
+.article-content a,
+.vocab-content a,
+.grammar-content a {
+    color: var(--color-accent);
     text-decoration: none;
     font-weight: bold;
 }
 
-a:hover {
+.article-content a:hover,
+.vocab-content a:hover,
+.grammar-content a:hover {
     text-decoration: underline;
 }
 
 /* --- BOX "IN BREVE" --- */
 .in-breve-box {
     padding: 15px 20px;
-    border-left: 6px solid #e0e0e0; /* Bordo di default */
+    border-left: 6px solid #e0e0e0;
     margin-bottom: 20px;
     border-radius: 4px;
     background-color: #f9f9f9;
 }
 
-/* Forza i link dentro i box a ereditare lo stile globale ma a essere ben visibili */
+/* Link dentro i box in breve */
 .in-breve-box a {
-    color: #FF8C00 !important;
-    text-decoration: underline !important;
+    color: inherit; /* Eredita il colore del testo per non stonare */
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.in-breve-box a:hover {
+    color: var(--color-accent);
 }
 
 /* --- CLASSI CLUSTER (Solo i colori) --- */
@@ -724,33 +771,36 @@ a:hover {
    BOX BABBEL (Stile Unico e Definitivo)
 ========================================= */
 .link-box-finale {
-    background-color: #f0f9ff !important;
-    border: 2px solid #3b82f6 !important;
+    background-color: #f0f9ff;
+    border: 2px solid #3b82f6;
     padding: 25px;
     margin: 40px 0;
     border-radius: 12px;
     text-align: center;
-    color: #334155 !important; /* Testo del paragrafo */
+    color: #334155; 
 }
 
 .link-box-finale h3 {
-    color: #1e3a8a !important; /* Titolo blu scuro elegante */
+    color: #1e3a8a; 
     margin-top: 0;
     font-size: 1.5rem;
 }
 
 .bottone-babbel {
     display: inline-block;
-    background-color: #3b82f6 !important; /* Bottone blu */
-    color: #ffffff !important;
+    background-color: #3b82f6; 
+    color: #ffffff; /* Senza la regola globale rotta, qui non serve più !important */
     padding: 14px 28px;
-    text-decoration: none !important;
+    text-decoration: none;
     border-radius: 8px;
     font-weight: bold;
-    transition: background-color 0.2s ease;
+    transition: background-color 0.2s ease, transform 0.2s ease;
 }
 
 .bottone-babbel:hover {
-    background-color: #2563eb !important;
+    background-color: #2563eb;
+    text-decoration: none;
+    transform: scale(0.98); /* Aggiunto un piccolo effetto al click/hover */
 }
-
+  
+    
