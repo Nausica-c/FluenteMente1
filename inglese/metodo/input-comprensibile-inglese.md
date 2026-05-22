@@ -24,7 +24,7 @@ Perché succede? Perché il cervello umano non impara *davvero* una lingua memor
 
 Questo concetto scientifico si chiama **Input Comprensibile** (*Comprehensible Input*), ed è il principio più importante dell’apprendimento linguistico moderno.
 
-<div class="in-breve-box" style="border-left-color: #3b82f6; background-color: #f0f9ff; color: #1e3a8a;">
+<div class="in-breve-box in-breve-stallo">
   <strong>🧠 In sintesi:</strong> Non devi "studiare" la lingua. Devi abituare il tuo cervello alla lingua esponendolo a messaggi che, grazie al contesto, riesce a capire anche se non conosce ogni singola parola.
 </div>
 
@@ -36,8 +36,16 @@ Ovvero, imparerai l'inglese ascoltando e leggendo **contenuti che riesci a capir
 
 Se capisci il contesto generale, riconosci le parole che già sai e intuisci il significato di quelle nuove grazie alla situazione, il tuo cervello inizia ad assorbire i "pattern" (le strutture ricorrenti) in modo totalmente naturale, senza bisogno di tradurre.
 
-👉 <a href="{{ '/inglese/metodo/grammatica-non-fa-parlare-inglese/' | relative_url }}">Perché studiare solo grammatica blocca questo processo</a>
-👉 <a href="{{ '/inglese/metodo/metodo-migliore-imparare-inglese-adulti/' | relative_url }}">Il metodo definitivo per imparare l'inglese da adulti</a>
+{% capture link_metodo %}
+• <a href="{{ '/inglese/metodo/grammatica-non-fa-parlare-inglese/' | relative_url }}">Perché studiare solo grammatica blocca questo processo</a><br>
+• <a href="{{ '/inglese/metodo/metodo-migliore-imparare-inglese-adulti/' | relative_url }}">Il metodo definitivo per imparare l'inglese da adulti</a>
+{% endcapture %}
+
+{% include box-approfondimento.html 
+    tipo_classe="in-breve-zero" 
+    titolo="🧱 Per approfondire il metodo:" 
+    contenuto=link_metodo 
+%}
 
 ---
 
@@ -58,14 +66,32 @@ Per applicare questa tecnica nel modo giusto, devi evitare le trappole classiche
 
 ### 1. Cercare di tradurre tutto
 Molti adulti fermano l'audio ogni cinque secondi per cercare ogni singola parola sul dizionario. Questo distrugge il flusso e rallenta enormemente l'apprendimento. Devi tollerare l'incertezza: capisci il messaggio generale e lascia lavorare il tuo cervello in background.
-👉 <a href="{{ '/inglese/metodo/tradurre-mentalmente-inglese/' | relative_url }}">Come smettere di tradurre mentalmente</a>
+
+{% capture link_traduzione %}
+• <a href="{{ '/inglese/metodo/tradurre-mentalmente-inglese/' | relative_url }}">Come smettere di tradurre mentalmente</a>
+{% endcapture %}
+
+{% include box-approfondimento.html 
+    tipo_classe="in-breve-stallo" 
+    titolo="🔄 Superare gli ostacoli:" 
+    contenuto=link_traduzione 
+%}
 
 ### 2. Confondere l'Input con lo "studio passivo"
 Mettere una serie TV in inglese in sottofondo mentre scorri i social o lavi i piatti **non** è Input Comprensibile. L’input efficace richiede che tu stia attivamente cercando di capire il significato del messaggio. Sentire rumori di fondo non ti insegnerà la lingua.
 
 ### 3. Cambiare contenuto in continuazione
 Non saltare da un podcast a un video diverso ogni giorno. La **ripetizione** è fondamentale. Riascoltare lo stesso podcast semplice per tre giorni di fila aumenta incredibilmente la comprensione e trasferisce le parole nuove nella memoria a lungo termine.
-👉 <a href="{{ '/inglese/metodo/ripetizione-spaziata/' | relative_url }}">Come sfruttare la Ripetizione Spaziata</a>
+
+{% capture link_ripetizione %}
+• <a href="{{ '/inglese/metodo/ripetizione-spaziata/' | relative_url }}">Come sfruttare la Ripetizione Spaziata</a>
+{% endcapture %}
+
+{% include box-approfondimento.html 
+    tipo_classe="in-breve-stallo" 
+    titolo="🔄 Rafforza la memoria:" 
+    contenuto=link_ripetizione 
+%}
 
 ---
 
@@ -76,9 +102,18 @@ Per far funzionare questo sistema non serve trasferirsi a Londra o studiare tre 
 1. **Scegli contenuti graduati:** Usa video YouTube creati appositamente per chi studia l'inglese (cerca *Comprehensible Input English* o *Graded Readers*). Sono chiari, usano molte immagini e parlano a una velocità adeguata.
 2. **Sfrutta il contesto visivo:** All'inizio, i video sono meglio dei podcast. Il cervello collega immediatamente la parola che sente all'immagine che vede (se qualcuno dice *"apple"* e indica una mela, non avrai bisogno di tradurlo).
 3. **Fallo tutti i giorni:** Anche solo 15 minuti di ascolto attivo giornaliero creano risultati infinitamente superiori rispetto a una faticosa maratona domenicale di 3 ore.
-👉 <a href="{{ '/inglese/metodo/routine-15-minuti/' | relative_url }}">Scopri come creare una routine da 15 minuti</a>
 
-<div class="in-breve-box" style="border-left-color: #22c55e; background-color: #f0fdf4; color: #166534;">
+{% capture link_routine %}
+• <a href="{{ '/inglese/metodo/routine-15-minuti/' | relative_url }}">Scopri come creare una routine da 15 minuti</a>
+{% endcapture %}
+
+{% include box-approfondimento.html 
+    tipo_classe="in-breve-zero" 
+    titolo="🧱 Costruisci la tua abitudine:" 
+    contenuto=link_routine 
+%}
+
+<div class="in-breve-box in-breve-speaking">
   <strong>🗣️ E per parlare?</strong> L'Input Comprensibile è il carburante dello Speaking. Più frasi interiorizzi ascoltando, più "chunk" (blocchi di parole) avrai a disposizione quando aprirai bocca, e più velocemente le parole ti verranno in mente in automatico senza doverle tradurre dall'italiano.
 </div>
 
@@ -88,7 +123,14 @@ L’Input Comprensibile è un metodo potente perché smette di lottare contro il
 
 Invece di memorizzare elenchi telefonici di verbi irregolari e tradurre testi noiosi, inizi a esporre la tua mente a messaggi reali. Lentamente, senza che tu te ne accorga, i suoni diventano parole, le parole diventano frasi e la lingua smette di essere un esercizio scolastico per diventare, finalmente, un vero strumento di comunicazione.
 
-### I tuoi prossimi passi:
-* 🗣️ **[Le frasi pronte per la conversazione]({{ '/inglese/speaking/frasi-inglesi-conversazione/' | relative_url }})**
-* 🚀 **[Come sbloccare lo Speaking da zero]({{ '/inglese/speaking/come-sbloccare-speaking-inglese/' | relative_url }})**
-* 📱 **[Come creare la tua immersione da casa]({{ '/inglese/metodo/immersione-da-casa/' | relative_url }})**
+{% capture link_conclusione %}
+• <a href="{{ '/inglese/speaking/frasi-inglesi-conversazione/' | relative_url }}">Le frasi pronte per la conversazione</a><br>
+• <a href="{{ '/inglese/speaking/come-sbloccare-speaking-inglese/' | relative_url }}">Come sbloccare lo Speaking da zero</a><br>
+• <a href="{{ '/inglese/metodo/immersione-da-casa/' | relative_url }}">Come creare la tua immersione da casa</a>
+{% endcapture %}
+
+{% include box-approfondimento.html 
+    tipo_classe="in-breve-speaking" 
+    titolo="🗣️ Prossimi passi per la tua fluidità:" 
+    contenuto=link_conclusione 
+%}
