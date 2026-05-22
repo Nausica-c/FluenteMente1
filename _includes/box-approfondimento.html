@@ -1,0 +1,6 @@
+<div class="in-breve-box {{ include.tipo_classe }}">
+  <strong>{{ include.titolo }}</strong><br>
+  {% for link in include.links %}
+    • <a href="{{ link.url | relative_url }}">{{ link.testo }}</a><br>
+  {% endfor %}
+</div>
