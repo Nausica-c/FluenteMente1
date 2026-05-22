@@ -719,3 +719,16 @@ a:hover {
 .in-breve-risorse { border-left-color: #14b8a6; background-color: #f0fdfa; color: #115e59; }
 .in-breve-mindset { border-left-color: #ca8a04; background-color: #fffbeb; color: #854d0e; }
 .in-breve-reale { border-left-color: #92400e; background-color: #fffbeb; color: #78350f; }
+
+/* Correzione per il box Babbel */
+.link-box-finale {
+    color: #333333 !important; /* Forza il testo a essere grigio scuro */
+}
+
+.link-box-finale h3 {
+    color: #FF8C00 !important; /* Forza il titolo ad essere arancione */
+}
+
+.bottone-babbel {
+    color: #ffffff !important; /* Forza il testo del bottone a essere bianco */
+}
