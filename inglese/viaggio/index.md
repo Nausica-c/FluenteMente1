@@ -2,19 +2,19 @@
 # ==========================================
 # CORE SEO & AUTOMATION
 # ==========================================
-layout: page
+layout: vocabolario
 title: "Inglese per viaggiare: parole ed esempi pratici"
-description: "Frasi utili per viaggiare senza stress in inglese."
+description: "La guida completa e i kit di sopravvivenza essenziali per viaggiare all'estero senza stress e comunicare in ogni situazione."
 permalink: /inglese/viaggio/
 
 # --- Configurazione del Motore del Sito ---
 type: pillar
 language: inglese
 cluster: Viaggio
-category : viaggio 
-tags: [viaggio, frasi-pratiche]
+category: viaggio
+tags: [viaggio, frasi-pratiche, survival-inglese]
 date: 2026-05-22
-author: FluenteMente 
+author: Alessandra
 ---
 
 <div class="in-breve-box" style="border-left-color: #3b82f6; background-color: #f0f9ff; color: #1e3a8a;">
@@ -66,8 +66,3 @@ Abbiamo diviso il percorso nelle situazioni esatte che affronterai durante il tu
 Non c'è tempo da perdere. Salva queste frasi, provale ad alta voce per abituare la lingua ai nuovi suoni e usale alla prima occasione. 
 
 Se vuoi approfondire la struttura dietro a queste frasi e usarle con maggiore sicurezza anche al lavoro, dai un'occhiata anche alla sezione **[Business]({{ '/inglese/business/' | relative_url }})**.
-
-<div style="text-align: center; margin-top: 40px; padding: 20px; border: 2px solid #f97316; border-radius: 8px;">
-  <p><strong>Vuoi automatizzare il parlato?</strong></p>
-  <a href="{{ '/recensioni/babbel/' | relative_url }}" style="color: #f97316; font-weight: 700; text-decoration: none; font-size: 1.2rem;">Scopri il corso Travel di Babbel per le tue emergenze ➔</a>
-</div>
