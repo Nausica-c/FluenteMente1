@@ -58,7 +58,7 @@ Se segui questo piano, non arriverai all'estero come un madrelingua, ma ci arriv
 
 <div class="in-breve-box" style="border-left-color: #3b82f6; background-color: #f0f9ff; color: #1e3a8a;">
   <strong>🚀 L'acceleratore per il tuo viaggio:</strong> Vuoi massimizzare questi 7 giorni senza impazzire tra mille appunti? Babbel ha un corso intensivo 'Travel' perfetto per i ripassi pre-partenza. Lezioni di 15 minuti che puoi scaricare e fare anche offline durante il volo. <a href="{{ '/recensioni/babbel/' | relative_url }}" style="font-weight: 700;">Inizia subito il tuo corso Travel con Babbel →</a>
-
+</div>
   <div class="link-box-finale">
     <h3>Pronto per il tuo viaggio?</h3>
     <p>Completa la tua preparazione con le nostre guide:</p>
@@ -74,4 +74,3 @@ Se segui questo piano, non arriverai all'estero come un madrelingua, ma ci arriv
     </a>
 </div>
 
-</div>
