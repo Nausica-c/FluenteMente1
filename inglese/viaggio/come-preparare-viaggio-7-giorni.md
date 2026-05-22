@@ -2,7 +2,7 @@
 # ==========================================
 # CORE SEO & AUTOMATION
 # ==========================================
-layout: articolo
+layout: vocabolario 
 title: "Come Preparare l'Inglese per un Viaggio in 7 Giorni (Senza Panico)"
 description: "Il piano definitivo per preparare il tuo inglese prima di un viaggio in soli 7 giorni. Routine, frasi chiave e consigli per gestire l'estero con sicurezza."
 permalink: /inglese/viaggio/come-preparare-viaggio-7-giorni/
