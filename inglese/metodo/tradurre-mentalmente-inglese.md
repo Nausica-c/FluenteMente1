@@ -6,7 +6,7 @@ permalink: /inglese/metodo/tradurre-mentalmente-inglese/
 type: articolo
 language: inglese
 cluster: Metodo
-tags: [tradurre mentalmente, pensare in inglese, speaking, fluidità, adulti]
+tags: [speaking, fluidità, adulti]
 date: 2026-05-22
 author: FluenteMente 
 ---
