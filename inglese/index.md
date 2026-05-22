@@ -10,7 +10,7 @@ permalink: /inglese/
   
   <div class="cards-grid">
     
-    <a href="/metodo/" class="lang-card">
+    <a href="/inglese/metodo/" class="lang-card">
       <div class="card-icon">⏱️</div>
       <h3>Metodo</h3>
       <p>Come ottimizzare il tempo e studiare in modo intelligente, non faticoso.</p>
