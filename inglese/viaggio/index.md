@@ -6,6 +6,14 @@ layout: page
 title: "Inglese per viaggiare: parole ed esempi pratici"
 description: "Frasi utili per viaggiare senza stress in inglese."
 permalink: /inglese/viaggio/
+
+# --- Configurazione del Motore del Sito ---
+type: pillar
+language: inglese
+cluster: Viaggio
+tags: [viaggio, frasi-pratiche]
+date: 2026-05-22
+author: FluenteMente 
 ---
 
 <div class="in-breve-box" style="border-left-color: #3b82f6; background-color: #f0f9ff; color: #1e3a8a;">
