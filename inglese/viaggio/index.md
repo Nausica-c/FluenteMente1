@@ -2,9 +2,10 @@
 # ==========================================
 # CORE SEO & AUTOMATION
 # ==========================================
-layout: vocabolario
-title: "Inglese per viaggiare: parole ed esempi pratici"
-description: "La guida completa e i kit di sopravvivenza essenziali per viaggiare all'estero senza stress e comunicare in ogni situazione."
+layout: vocabolario 
+title: "Inglese per Viaggiare: La Guida di Sopravvivenza per Adulti"
+date: 2026-05-24
+description: "Devi viaggiare e il tuo inglese è arrugginito? Scopri gli scenari essenziali, le frasi di sopravvivenza e come prepararti in poco tempo senza studiare grammatica."
 permalink: /inglese/viaggio/
 
 # --- Configurazione del Motore del Sito ---
@@ -12,59 +13,66 @@ type: pillar
 language: inglese
 cluster: Viaggio
 category: viaggio
-tags: [viaggio, frasi-pratiche, survival-inglese]
-date: 2026-05-22
+tags: [viaggio, inglese per viaggiare, kit sopravvivenza, guida]
 author: Alessandra
 ---
 
-<div class="in-breve-box" style="border-left-color: #3b82f6; background-color: #f0f9ff; color: #1e3a8a;">
-  <strong>✈️ Parti a breve?</strong> Se il tuo volo è dietro l'angolo, non perdere tempo con la grammatica. <strong><a href="{{ '/inglese/viaggio/come-preparare-viaggio-7-giorni/' | relative_url }}">Leggi il nostro piano d'azione di 7 giorni</a></strong> per prepararti al meglio in soli 15 minuti al giorno.
-</div>
+## Per viaggiare non ti serve parlare bene: ti serve cavartela nei momenti giusti
 
-## Situazioni reali
-Quando sei all'estero, la teoria passa in secondo piano. Al gate di un aeroporto, davanti a un cameriere che aspetta il tuo ordine o alla reception di un hotel, **devi comunicare subito, senza tempo per pensare**. 
+Sei davanti al tabellone delle partenze e il tuo gate è improvvisamente cambiato. Al banco dell'hotel non trovano la tua prenotazione. Al ristorante devi spiegare un'allergia a un cameriere che va di fretta.
 
-Il segreto per viaggiare in inglese senza stress non è conoscere tutta la lingua, ma padroneggiare i "kit di sopravvivenza" specifici per ogni contesto. In questa sezione abbandoniamo la grammatica complessa per concentrarci su frasi pronte, vocabolario essenziale e risposte automatiche.
+È in questi momenti che l'inglese scolastico crolla. Per viaggiare all'estero da adulto, senza l'ansia costante del "non mi farò capire", devi cambiare prospettiva: **non ti serve un inglese elegante, ti serve un inglese funzionale.**
 
-## Aree principali
-Abbiamo diviso il percorso nelle situazioni esatte che affronterai durante il tuo viaggio, così puoi studiare (o ripassare al volo) solo ciò che ti serve davvero.
-
----
-
-<div class="in-breve-box" style="border-left-color: #3b82f6; background-color: #f0f9ff; color: #1e3a8a; margin-bottom: 25px;">
-  <strong>✈️ Aeroporto e Spostamenti</strong><br>
-  • <a href="{{ '/inglese/viaggio/frasi-aeroporto-inglese/' | relative_url }}">Frasi in inglese per l’aeroporto: guida completa</a><br>
-  • <a href="{{ '/inglese/viaggio/aeroporto-check-in/' | relative_url }}">Check-in in aeroporto: 5 frasi chiave</a><br>
-  • <a href="{{ '/inglese/viaggio/comprare-biglietti-inglese/' | relative_url }}">Come comprare biglietti e prenotare taxi</a><br>
-  • <a href="{{ '/inglese/viaggio/chiedere-indicazioni-inglese/' | relative_url }}">Come chiedere indicazioni stradali</a>
-</div>
-
-<div class="in-breve-box" style="border-left-color: #22c55e; background-color: #f0fdf4; color: #166534; margin-bottom: 25px;">
-  <strong>🏨 Hotel e Alloggi</strong><br>
-  • <a href="{{ '/inglese/viaggio/check-in-hotel-inglese/' | relative_url }}">Check-in e Check-out in hotel: frasi essenziali</a><br>
-  • <a href="{{ '/inglese/viaggio/vocabolario-hotel-inglese/' | relative_url }}">Vocabolario hotel e comunicazioni Airbnb</a>
-</div>
-
-<div class="in-breve-box" style="border-left-color: #f97316; background-color: #fff7ed; color: #9a3412; margin-bottom: 25px;">
-  <strong>🍔 Ristorante e Shopping</strong><br>
-  • <a href="{{ '/inglese/viaggio/ordinare-ristorante-inglese/' | relative_url }}">Ordinare al ristorante e parlare con i camerieri</a><br>
-  • <a href="{{ '/inglese/viaggio/shopping-estero-inglese/' | relative_url }}">Shopping all’estero: chiedere i prezzi e negoziare</a>
-</div>
-
-<div class="in-breve-box" style="border-left-color: #a855f7; background-color: #faf5ff; color: #6b21a8; margin-bottom: 25px;">
-  <strong>🌍 Socialità e Gestione Imprevisti</strong><br>
-  • <a href="{{ '/inglese/viaggio/dating-solo-travel-inglese/' | relative_url }}">Inglese Social e Dating: Rompere il ghiaccio</a><br>
-  • <a href="{{ '/inglese/viaggio/emergenze-salute-inglese/' | relative_url }}">Emergenze e Salute: la guida salvavita da farmacia e pronto soccorso</a><br>
-  • <a href="{{ '/inglese/viaggio/frasi-reclami-inglese/' | relative_url }}">Business Travel e Gestione Reclami: farsi valere con assertività</a>
-</div>
+> **Questa guida fa per te se:**
+> * Hai poco tempo e il tuo inglese è arrugginito.
+> * Non ti interessa diventare "fluente", vuoi solo gestire le necessità pratiche.
+> * Temi i colli di bottiglia: aeroporto, hotel, ordinazioni e imprevisti.
 
 ---
 
-<div class="in-breve-box" style="border-left-color: #64748b; background-color: #f1f5f9; color: #334155;">
-  <strong>🎯 Il nostro obiettivo:</strong> Il fine ultimo di questo cluster è la <strong>sopravvivenza linguistica</strong>. Non ti prepariamo per tenere discorsi accademici, ma per garantirti di poter andare ovunque nel mondo, gestendo ogni necessità logistica con la massima serenità.
-</div>
+## 🚀 Punti di partenza rapidi
+* **Parti a brevissimo?** ➔ Scarica il [Kit di 30 frasi essenziali]({{ '/inglese/viaggio/kit-30-frasi-inglese-viaggio/' | relative_url }}).
+* **Hai 7 giorni prima del volo?** ➔ Segui il [Piano Intensivo di 7 giorni]({{ '/inglese/viaggio/come-preparare-viaggio-7-giorni/' | relative_url }}).
 
-## Usa subito
-Non c'è tempo da perdere. Salva queste frasi, provale ad alta voce per abituare la lingua ai nuovi suoni e usale alla prima occasione. 
+---
 
-Se vuoi approfondire la struttura dietro a queste frasi e usarle con maggiore sicurezza anche al lavoro, dai un'occhiata anche alla sezione **[Business]({{ '/inglese/business/' | relative_url }})**.
+## 🗺️ Gli Scenari Essenziali (Hub di Approfondimento)
+
+### ✈️ Aeroporto e Trasporti
+Dalle procedure di sicurezza al recupero bagagli, fino a come chiedere indicazioni.
+* [Hub Aeroporto e Trasporti]({{ '/inglese/viaggio/aeroporto/' | relative_url }})
+* [Comprare biglietti]({{ '/inglese/viaggio/trasporto/comprare-biglietti-inglese/' | relative_url }})
+* [Gestione bagagli smarriti]({{ '/inglese/viaggio/aeroporto/bagagli-smarriti-inglese/' | relative_url }})
+
+### 🏨 Hotel e Soggiorno
+Tutto ciò che serve per un check-in sereno e una gestione impeccabile della camera.
+* [Hub Hotel]({{ '/inglese/viaggio/hotel/' | relative_url }})
+* [Check-in e Check-out]({{ '/inglese/viaggio/hotel/check-in-hotel-inglese/' | relative_url }})
+* [Risolvere problemi in camera]({{ '/inglese/viaggio/hotel/problemi-camera-hotel-inglese/' | relative_url }})
+
+### 🍽️ Ristoranti e Cibo
+Ordinare con sicurezza, gestire allergie e capire il conto.
+* [Hub Ristorante]({{ '/inglese/viaggio/ristorante/' | relative_url }})
+* [Gestire le allergie]({{ '/inglese/viaggio/gestire-allergie-inglese/' | relative_url }})
+* [Conto e Mancia]({{ '/inglese/viaggio/ristorante/conto-mancia-inglese/' | relative_url }})
+
+### 🛍️ Shopping
+Taglie, camerini, pagamenti e contrattazione nei mercati.
+* [Hub Shopping]({{ '/inglese/viaggio/shopping/' | relative_url }})
+* [Abbigliamento e Taglie]({{ '/inglese/viaggio/shopping/abbigliamento-taglie-inglese/' | relative_url }})
+* [Souvenir e Contrattazione]({{ '/inglese/viaggio/shopping/souvenir-mercati-inglese/' | relative_url }})
+
+### 🩺 Emergenze e Salute
+Cosa dire in caso di piccoli malesseri o necessità di assistenza.
+* [Hub Emergenze e Salute]({{ '/inglese/viaggio/emergenze-salute/' | relative_url }})
+* [Farmacia e sintomi]({{ '/inglese/viaggio/emergenze-salute/farmacia-sintomi-inglese/' | relative_url }})
+
+---
+
+## 🧸 Viaggi in famiglia
+Se viaggi con i più piccoli, la gestione delle esigenze aumenta:
+* [Inglese per viaggiare con bambini]({{ '/inglese/viaggio/viaggiare-con-bambini-inglese/' | relative_url }})
+
+---
+
+**Pronto a fare i bagagli senza l'ansia della lingua?** Non cercare di memorizzare l'intero dizionario. Scegli lo scenario che ti spaventa di più, allenati ad alta voce sulle frasi chiave e affronta il tuo prossimo viaggio con la consapevolezza che, per farti capire, serve molto meno di quello che pensi.
