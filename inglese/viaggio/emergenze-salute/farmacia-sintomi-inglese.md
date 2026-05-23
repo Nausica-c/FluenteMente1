@@ -69,6 +69,6 @@ Leggi questo breve scambio per vedere come usare le parole appena viste in un co
 
 <div class="in-breve-box in-breve-viaggio" style="margin-top: 40px;">
   <strong>🚀 Continua il tuo percorso:</strong><br>
-  • <a href="{{ '/inglese/viaggio/emergenze-salute-inglese/' | relative_url }}">Emergenze e Salute: la guida completa per ospedale e pronto soccorso</a><br>
+  • <a href="{{ '/inglese/viaggio/emergenze-salute/' | relative_url }}">Emergenze e Salute: la guida completa per ospedale e pronto soccorso</a><br>
   • <a href="{{ '/inglese/viaggio/come-preparare-viaggio-7-giorni/' | relative_url }}">Come preparare l'inglese per il viaggio in 7 giorni</a>
 </div>
