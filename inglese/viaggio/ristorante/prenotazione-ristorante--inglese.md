@@ -67,6 +67,6 @@ Leggi questa breve simulazione per familiarizzare con il classico scambio di bat
 
 <div class="in-breve-box in-breve-viaggio" style="margin-top: 40px;">
   <strong>🚀 Continua il tuo percorso gastronomico:</strong><br>
-  • <a href="{{ '/inglese/viaggio/ristorante-ordinare-conto-inglese/' | relative_url }}">Ordinare e Pagare: come leggere il menu e chiedere il conto</a><br>
+  • <a href="{{ '/inglese/viaggio/ristorante/ordinare-ristorantr-inglese/' | relative_url }}">Ordinare e Pagare: come leggere il menu e chiedere il conto</a><br>
   • <a href="{{ '/inglese/viaggio/intolleranze-allergie-inglese/' | relative_url }}">Intolleranze e Allergie: come segnalarle in sicurezza al ristorante</a>
 </div>
