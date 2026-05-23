@@ -69,6 +69,6 @@ Leggi questa simulazione per familiarizzare con il classico scambio di battute a
 
 <div class="in-breve-box in-breve-viaggio" style="margin-top: 40px;">
   <strong>🚀 Continua il tuo percorso:</strong><br>
-  • <a href="{{ '/inglese/viaggio/vocabolario-hotel-inglese/' | relative_url }}">Problemi in Hotel: come segnalare guasti o comunicare con Airbnb</a><br>
+  • <a href="{{ '/inglese/viaggio/hotel/problemi-camera-hotel-inglese.md/' | relative_url }}">Problemi in Hotel: come segnalare guasti oe problemi</a><br>
   • <a href="{{ '/inglese/viaggio/frasi-reclami-inglese/' | relative_url }}">Business Travel e Reclami: l'inglese assertivo per farsi valere</a>
 </div>
