@@ -17,7 +17,7 @@ date: 2026-05-23
 author: Alessandra
 ---
 
-Quando si viaggia, si spera sempre che vada tutto liscio. Ma un mal di testa feroce, un'intossicazione alimentare, un infortunio o, nella peggiore delle ipotesi, il furto di un documento o lo smarrimento della valigia possono capitare.
+Quando si viaggia, si spera sempre che vada tutto liscio. Ma il furto di un documento, lo smarrimento della valigia o, nella peggiore delle ipotesi, un mal di testa feroce, un'intossicazione alimentare o un infortunio possono capitare.
 
 Il problema? Quando sei spaventato, stanco o provi dolore, l'ansia prende il sopravvento e l'inglese che hai studiato sembra svanire. Il cervello non ha energia per "tradurre" quando è sotto stress. Spiegare a un farmacista dove fa male o gestire una contestazione all'assistenza bagagli richiede un lessico specifico e frasi pronte all'uso.
 
