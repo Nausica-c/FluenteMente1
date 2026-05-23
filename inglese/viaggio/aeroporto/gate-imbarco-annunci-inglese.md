@@ -69,6 +69,6 @@ A volte i tabelloni non sono aggiornati o c'è confusione sulle file. Ecco un br
 
 <div class="in-breve-box in-breve-viaggio" style="margin-top: 40px;">
   <strong>🚀 Completa il tuo percorso in Aeroporto:</strong><br>
-  • <a href="{{ '/inglese/viaggio/controlli-sicurezza-aeroporto-inglese/' | relative_url }}">Controlli di Sicurezza: cosa capire al metal detector</a><br>
-  • <a href="{{ '/inglese/viaggio/immigrazione-dogana-inglese/' | relative_url }}">Immigrazione e Dogana: le domande frequenti al controllo passaporti</a>
+  • <a href="{{ '/inglese/viaggio/aeroporto/controlli-sicurezza-aeroporto-inglese/' | relative_url }}">Controlli di Sicurezza: cosa capire al metal detector</a><br>
+  • <a href="{{ '/inglese/viaggio/aeroporto/immigrazione-dogana-inglese/' | relative_url }}">Immigrazione e Dogana: le domande frequenti al controllo passaporti</a>
 </div>
