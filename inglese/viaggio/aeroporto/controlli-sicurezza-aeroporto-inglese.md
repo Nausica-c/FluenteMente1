@@ -71,6 +71,6 @@ Ecco un esempio di interazione per abituare l'orecchio a uno scambio rapido con 
 
 <div class="in-breve-box in-breve-viaggio" style="margin-top: 40px;">
   <strong>🚀 Continua il tuo percorso:</strong><br>
-  • <a href="{{ '/inglese/viaggio/check-in-aeroporto-inglese/' | relative_url }}">Al Check-in: frasi essenziali per registrare i bagagli</a><br>
-  • <a href="{{ '/inglese/viaggio/bagagli-smarriti-inglese/' | relative_url }}">Assistenza Bagagli: come recuperare una valigia smarrita</a>
+  • <a href="{{ '/inglese/viaggio/aeroporto/check-in-aeroporto-inglese/' | relative_url }}">Al Check-in: frasi essenziali per registrare i bagagli</a><br>
+  • <a href="{{ '/inglese/viaggio/aeroporto/bagagli-smarriti-inglese/' | relative_url }}">Assistenza Bagagli: come recuperare una valigia smarrita</a>
 </div>
