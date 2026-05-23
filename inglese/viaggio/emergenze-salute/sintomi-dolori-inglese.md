@@ -5,7 +5,7 @@
 layout: vocabolario
 title: "Inglese Medico in Viaggio: Come Descrivere Sintomi e Dolori"
 description: "Il vocabolario pratico per descrivere parti del corpo, tipi di dolore e sintomi specifici in inglese a un medico o in farmacia."
-permalink: /inglese/viaggio/sintomi-dolori-inglese/
+permalink: /inglese/viaggio/emergenze-salute/sintomi-dolori-inglese/
 
 # --- Configurazione del Motore del Sito ---
 type: vocabolario
