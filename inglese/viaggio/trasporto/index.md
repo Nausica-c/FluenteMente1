@@ -5,7 +5,7 @@
 layout: vocabolario 
 title: "Inglese per i Trasporti e Orientamento: La Guida Completa"
 description: "L'hub centrale per muoversi all'estero: vocabolario e frasi per prendere mezzi pubblici, taxi, Uber e chiedere indicazioni stradali."
-permalink: /inglese/viaggio/trasporti-indicazioni-inglese-hub/
+permalink: /inglese/viaggio/trasporto-indicazioni-inglese-hub/
 
 # --- Configurazione del Motore del Sito ---
 type: pillar
