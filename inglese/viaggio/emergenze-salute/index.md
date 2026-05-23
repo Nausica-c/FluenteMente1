@@ -58,7 +58,7 @@ Abbiamo suddiviso il vocabolario e i dialoghi pratici in quattro guide verticali
 <div class="in-breve-box in-breve-vocabolario" style="margin-bottom: 25px;">
   <strong>🧳 Assistenza Bagagli (Valigie smarrite o danneggiate)</strong><br>
   Le formule esatte da usare al desk Lost & Found dell'aeroporto per descrivere la valigia e registrarne la mancata consegna.<br>
-  ➔ <a href="{{ '/inglese/viaggio/emergenze-salute/bagagli-smarriti-inglese/' | relative_url }}">Vai alla guida Bagagli Smarriti in Inglese</a>
+  ➔ <a href="{{ '/inglese/viaggio/aeroporto/bagagli-smarriti-inglese/' | relative_url }}">Vai alla guida Bagagli Smarriti in Inglese</a>
 </div>
 
 <div class="in-breve-box" style="border-left-color: #475569; background-color: #f8fafc; color: #1e293b; margin-bottom: 25px;">
