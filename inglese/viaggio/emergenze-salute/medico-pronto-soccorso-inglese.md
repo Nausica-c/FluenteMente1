@@ -70,6 +70,6 @@ Esercitati con questo scenario tipico per capire come rispondere alle prime doma
 
 <div class="in-breve-box in-breve-viaggio" style="margin-top: 40px;">
   <strong>🚀 Continua il tuo percorso:</strong><br>
-  • <a href="{{ '/inglese/viaggio/farmacia-sintomi-inglese/' | relative_url }}">In Farmacia: frasi utili per gestire i piccoli malanni da banco</a><br>
-  • <a href="{{ '/inglese/viaggio/emergenze-salute-inglese/' | relative_url }}">Emergenze e Salute: la guida salvavita completa per il viaggio</a>
+  • <a href="{{ '/inglese/viaggio/emergenze-salute/farmacia-sintomi-inglese/' | relative_url }}">In Farmacia: frasi utili per gestire i piccoli malanni da banco</a><br>
+  • <a href="{{ '/inglese/viaggio/emergenze-salute/' | relative_url }}">Emergenze e Salute: la guida salvavita completa per il viaggio</a>
 </div>
