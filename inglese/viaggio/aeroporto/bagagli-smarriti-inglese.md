@@ -5,7 +5,7 @@
 layout: vocabolario
 title: "Bagagli Smarriti o Danneggiati: Frasi in Inglese"
 description: "Cosa dire al desk assistenza in aeroporto per ritrovare la tua valigia smarrita o segnalare un danno."
-permalink: /inglese/viaggio/bagagli-smarriti-inglese/
+permalink: /inglese/viaggio/aeroporto/bagagli-smarriti-inglese/
 
 # --- Configurazione del Motore del Sito ---
 type: vocabolario
