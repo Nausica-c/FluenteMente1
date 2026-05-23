@@ -5,7 +5,7 @@
 layout: vocabolario
 title: "Chiedere Indicazioni Stradali: Frasi in Inglese"
 description: "Come fermare un passante, chiedere indicazioni per una strada o un monumento e, soprattutto, capire la risposta."
-permalink: /inglese/viaggio/chiedere-indicazioni-inglese/
+permalink: /inglese/viaggio/trasporto/chiedere-indicazioni-inglese/
 
 # --- Configurazione del Motore del Sito ---
 type: vocabolario
