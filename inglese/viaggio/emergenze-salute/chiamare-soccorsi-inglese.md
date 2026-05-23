@@ -5,7 +5,7 @@
 layout: vocabolario
 title: "Chiamare i Soccorsi in Inglese: Frasi per Ambulanza e Polizia"
 description: "Come gestire una chiamata di emergenza all'estero. Frasi pronte per chiamare il 911 o il 112, richiedere un'ambulanza e dare la propria posizione."
-permalink: /inglese/viaggio/chiamare-soccorsi-inglese/
+permalink: /inglese/viaggio/emergenze-salute/chiamare-soccorsi-inglese/
 
 # --- Configurazione del Motore del Sito ---
 type: vocabolario
