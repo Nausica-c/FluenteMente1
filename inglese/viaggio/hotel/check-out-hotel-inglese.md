@@ -71,6 +71,6 @@ Un breve scambio per aiutarti a gestire il momento del saldo e la verifica dei c
 
 <div class="in-breve-box in-breve-viaggio" style="margin-top: 40px;">
   <strong>🚀 Hai terminato il tuo percorso in hotel:</strong><br>
-  • <a href="{{ '/inglese/viaggio/check-in-hotel-inglese/' | relative_url }}">Al Check-in in Hotel: ripassa l'arrivo</a><br>
-  • <a href="{{ '/inglese/viaggio/servizi-hotel-inglese/' | relative_url }}">Servizi dell'Hotel: tutte le info su colazione e Wi-Fi</a>
+  • <a href="{{ '/inglese/viaggio/hotel/check-in-hotel-inglese/' | relative_url }}">Al Check-in in Hotel: ripassa l'arrivo</a><br>
+  • <a href="{{ '/inglese/viaggio/hotel/servizi-hotel-inglese/' | relative_url }}">Servizi dell'Hotel: tutte le info su colazione e Wi-Fi</a>
 </div>
