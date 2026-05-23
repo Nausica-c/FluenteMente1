@@ -5,7 +5,7 @@
 layout: vocabolario
 title: "Denunciare un Furto o Smarrimento: Frasi in Inglese"
 description: "Il vocabolario essenziale per interagire con la polizia, denunciare un furto e bloccare le carte all'estero."
-permalink: /inglese/viaggio/furto-smarrimento-inglese/
+permalink: /inglese/viaggio/emergenze-salute/furto-smarrimento-inglese/
 
 # --- Configurazione del Motore del Sito ---
 type: vocabolario
