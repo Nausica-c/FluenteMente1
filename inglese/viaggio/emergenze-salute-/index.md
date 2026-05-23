@@ -5,7 +5,7 @@
 layout: vocabolario 
 title: "Inglese per Emergenze e Salute: Vocabolario, Frasi e Dialoghi Salvavita"
 description: "Guida hub di sopravvivenza in inglese per emergenze. Vocabolario dei sintomi, farmacia, pronto soccorso, bagagli smarriti e forze dell'ordine."
-permalink: /inglese/viaggio/emergenze-salute-inglese/
+permalink: /inglese/viaggio/emergenze-salute/
 
 # --- Configurazione del Motore del Sito ---
 type: pillar
