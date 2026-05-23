@@ -5,7 +5,7 @@
 layout: vocabolario
 title: "Servizi dell'Hotel: Frasi Utili in Inglese"
 description: "Come chiedere informazioni su colazione, Wi-Fi, piscina e deposito bagagli in albergo."
-permalink: /inglese/viaggio/servizi-hotel-inglese/
+permalink: /inglese/viaggio/hotel/servizi-hotel-inglese/
 
 # --- Configurazione del Motore del Sito ---
 type: vocabolario
