@@ -5,7 +5,7 @@
 layout: vocabolario
 title: "Prendere un Taxi o Uber: Frasi in Inglese"
 description: "Come chiamare un taxi, confermare una corsa Uber e gestire le indicazioni con l'autista all'estero."
-permalink: /inglese/viaggio/prendere-taxi-inglese/
+permalink: /inglese/viaggio/trasporto/prendere-taxi-inglese/
 
 # --- Configurazione del Motore del Sito ---
 type: vocabolario
