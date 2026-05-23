@@ -5,7 +5,7 @@
 layout: vocabolario
 title: "Problemi in Camera d'Hotel: Frasi in Inglese per Risolverli"
 description: "Il vocabolario per segnalare un guasto, chiedere asciugamani extra o lamentarsi del rumore."
-permalink: /inglese/viaggio/problemi-camera-hotel-inglese/
+permalink: /inglese/viaggio/hotel/problemi-camera-hotel-inglese/
 
 # --- Configurazione del Motore del Sito ---
 type: vocabolario
