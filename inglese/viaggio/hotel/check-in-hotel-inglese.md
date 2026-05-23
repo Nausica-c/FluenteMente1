@@ -5,7 +5,7 @@
 layout: vocabolario
 title: "Al Check-in in Hotel: Frasi Utili in Inglese"
 description: "Come presentarsi alla reception, confermare la prenotazione e ritirare le chiavi della stanza."
-permalink: /inglese/viaggio/check-in-hotel-inglese/
+permalink: /inglese/viaggio/hotel/check-in-hotel-inglese/
 
 # --- Configurazione del Motore del Sito ---
 type: vocabolario
