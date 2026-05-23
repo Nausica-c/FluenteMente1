@@ -29,17 +29,13 @@ Questa pagina è il tuo **Hub Centrale per le Emergenze**. Scegli la situazione 
 
 ---
 
-## 1. Il Vocabolario di Base dei Sintomi
+## 1. Come Descrivere Sintomi e Dolori
 
-Prima di recarti in clinica o in farmacia, devi saper indicare cosa non va. In inglese si usa spesso la parola **Ache** (dolore continuo) unita alla parte del corpo, oppure **Pain** (dolore più acuto).
+Per ricevere il giusto aiuto da un medico o in farmacia, devi saper spiegare esattamente cosa ti senti. La prima regola fondamentale è comprendere la differenza tra un dolore sordo e continuo (**Ache**) e un dolore improvviso o acuto (**Pain**).
 
-| Inglese | Italiano |
-| :--- | :--- |
-| **Headache / Stomachache / Backache** | *Mal di testa / Mal di pancia / Mal di schiena* |
-| **Sore throat** | *Mal di gola* |
-| **Fever / Temperature** | *Febbre (es. "I have a temperature")* |
-| **Dizzy** | *Vertiginoso / Mi gira la testa* |
-| **Nauseous / Sick** | *Nauseato* |
+Dato che i malanni in viaggio possono essere molti e richiedono termini specifici per le reazioni allergiche, i problemi intestinali o le parti del corpo lese, abbiamo creato un dizionario interamente dedicato a mappare ogni singola casistica.
+
+👉 **[Leggi la guida completa su come descrivere sintomi e dolori]({{ '/inglese/viaggio/sintomi-dolori-inglese/' | relative_url }})**
 
 ---
 
@@ -50,25 +46,25 @@ Abbiamo suddiviso il vocabolario e i dialoghi pratici in quattro guide verticali
 <div class="in-breve-box in-breve-viaggio" style="margin-bottom: 25px;">
   <strong>💊 In Farmacia (Farmaci da banco e sintomi leggeri)</strong><br>
   Cosa dire per comprare antidolorifici, sciroppi, cerotti e come rispondere alle domande del farmacista.<br>
-  👉 <a href="{{ '/inglese/viaggio/farmacia-sintomi-inglese/' | relative_url }}">Vai alla guida Farmacia in Inglese</a>
+  ➔ <a href="{{ '/inglese/viaggio/farmacia-sintomi-inglese/' | relative_url }}">Vai alla guida Farmacia in Inglese</a>
 </div>
 
 <div class="in-breve-box in-breve-stallo" style="margin-bottom: 25px;">
   <strong>🏥 Dal Medico o al Pronto Soccorso (ER / A&E)</strong><br>
   Come spiegare un infortunio grave, descrivere il dolore al triage e gestire l'accettazione con l'assicurazione di viaggio.<br>
-  👉 <a href="{{ '/inglese/viaggio/medico-pronto-soccorso-inglese/' | relative_url }}">Vai alla guida Pronto Soccorso in Inglese</a>
+  ➔ <a href="{{ '/inglese/viaggio/medico-pronto-soccorso-inglese/' | relative_url }}">Vai alla guida Pronto Soccorso in Inglese</a>
 </div>
 
 <div class="in-breve-box in-breve-vocabolario" style="margin-bottom: 25px;">
   <strong>🧳 Assistenza Bagagli (Valigie smarrite o danneggiate)</strong><br>
   Le formule esatte da usare al desk Lost & Found dell'aeroporto per descrivere la valigia e registrarne la mancata consegna.<br>
-  👉 <a href="{{ '/inglese/viaggio/bagagli-smarriti-inglese/' | relative_url }}">Vai alla guida Bagagli Smarriti in Inglese</a>
+  ➔ <a href="{{ '/inglese/viaggio/bagagli-smarriti-inglese/' | relative_url }}">Vai alla guida Bagagli Smarriti in Inglese</a>
 </div>
 
 <div class="in-breve-box" style="border-left-color: #475569; background-color: #f8fafc; color: #1e293b; margin-bottom: 25px;">
   <strong>🚓 Furti, Smarrimenti e Polizia</strong><br>
   Come denunciare il furto di un portafoglio o di un passaporto alla stazione di polizia e richiedere i verbali per l'ambasciata.<br>
-  👉 <a href="{{ '/inglese/viaggio/furto-smarrimento-inglese/' | relative_url }}">Vai alla guida Furto e Polizia in Inglese</a>
+  ➔ <a href="{{ '/inglese/viaggio/furto-smarrimento-inglese/' | relative_url }}">Vai alla guida Furto e Polizia in Inglese</a>
 </div>
 
 ---
@@ -83,6 +79,8 @@ In caso di emergenza vitale e immediata, i numeri cambiano in base al Paese (911
 | **"There’s been an accident."** | *C'è stato un incidente.* |
 | **"Someone is having a heart attack."** | *Qualcuno sta avendo un infarto.* |
 | **"Someone is unconscious."** | *Qualcuno è svenuto.* |
+
+👉 **[Leggi la guida completa su come chiamare i soccorsi d'emergenza]({{ '/inglese/viaggio/chiamare-soccorsi-inglese/' | relative_url }})**
 
 ---
 
