@@ -69,6 +69,6 @@ Ecco una simulazione realistica di un colloquio standard con l'agente di terra p
 
 <div class="in-breve-box in-breve-viaggio" style="margin-top: 40px;">
   <strong>🚀 Continua il tuo percorso:</strong><br>
-  • <a href="{{ '/inglese/viaggio/aeroporto-check-in/' | relative_url }}">Check-in in aeroporto: 5 frasi chiave per viaggiare senza stress</a><br>
+  • <a href="{{ '/inglese/viaggio/aeroporto/aeroporto/check-in/' | relative_url }}">Check-in in aeroporto: 5 frasi chiave per viaggiare senza stress</a><br>
   • <a href="{{ '/inglese/viaggio/frasi-reclami-inglese/' | relative_url }}">Business Travel e Reclami: Come farsi valere ed essere assertivi all'estero</a>
 </div>
