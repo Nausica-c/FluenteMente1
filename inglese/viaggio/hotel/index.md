@@ -5,7 +5,7 @@
 layout: vocabolario 
 title: "Inglese in Hotel: La Guida Hub per un Soggiorno senza Stress"
 description: "Dall'arrivo al check-out: l'hub completo con vocabolario e frasi per gestire check-in, servizi, problemi in camera e pagamenti in hotel."
-permalink: /inglese/viaggio/hotel-inglese-hub/
+permalink: /inglese/viaggio/hotel/
 
 # --- Configurazione del Motore del Sito ---
 type: pillar
