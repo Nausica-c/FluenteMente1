@@ -69,6 +69,6 @@ Un momento tipico dell'ultimo giorno di vacanza: hai il volo la sera ma devi las
 
 <div class="in-breve-box in-breve-viaggio" style="margin-top: 40px;">
   <strong>🚀 Continua il tuo percorso in hotel:</strong><br>
-  • <a href="{{ '/inglese/viaggio/check-in-hotel-inglese/' | relative_url }}">Al Check-in in Hotel: frasi utili per gestire l'arrivo</a><br>
-  • <a href="{{ '/inglese/viaggio/problemi-camera-hotel-inglese/' | relative_url }}">Problemi in Camera: come segnalare guasti e chiedere assistenza</a>
+  • <a href="{{ '/inglese/viaggio/hotel/check-in-hotel-inglese/' | relative_url }}">Al Check-in in Hotel: frasi utili per gestire l'arrivo</a><br>
+  • <a href="{{ '/inglese/viaggio/hotel/problemi-camera-hotel-inglese/' | relative_url }}">Problemi in Camera: come segnalare guasti e chiedere assistenza</a>
 </div>
