@@ -5,7 +5,7 @@
 layout: vocabolario 
 title: "Inglese in Aeroporto: La Guida Completa e le Frasi Salva-Vita"
 description: "Dall'arrivo al check-in fino all'imbarco e al ritiro bagagli: la guida hub per gestire ogni fase in aeroporto parlando inglese senza ansia."
-permalink: /inglese/viaggio/aeroporto-inglese-hub/
+permalink: /inglese/viaggio/aeroporto/
 
 # --- Configurazione del Motore del Sito ---
 type: pillar
