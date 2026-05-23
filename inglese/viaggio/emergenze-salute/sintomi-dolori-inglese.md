@@ -93,6 +93,6 @@ Metti insieme le parole che hai imparato in queste frasi pronte all'uso, perfett
   <strong>🚀 Metti in pratica questo vocabolario:</strong><br>
   Ora che sai come descrivere i sintomi, impara le frasi esatte per interagire con i professionisti:<br>
   • <a href="{{ '/inglese/viaggio/farmacia-sintomi-inglese/' | relative_url }}">Dal Farmacista: Come acquistare farmaci da banco</a><br>
-  • <a href="{{ '/inglese/viaggio/medico-pronto-soccorso-inglese/' | relative_url }}">Al Pronto Soccorso: Come gestire l'accettazione e l'assicurazione</a><br>
-  • <a href="{{ '/inglese/viaggio/emergenze-salute-inglese/' | relative_url }}">Torna all'Hub Emergenze e Salute</a>
+  • <a href="{{ '/inglese/viaggio/emergenze-salute/medico-pronto-soccorso-inglese/' | relative_url }}">Al Pronto Soccorso: Come gestire l'accettazione e l'assicurazione</a><br>
+  • <a href="{{ '/inglese/viaggio/emergenze-salute/' | relative_url }}">Torna all'Hub Emergenze e Salute</a>
 </div>
