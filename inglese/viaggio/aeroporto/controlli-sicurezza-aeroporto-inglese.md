@@ -5,7 +5,7 @@
 layout: vocabolario
 title: "Ai Controlli di Sicurezza in Aeroporto: Frasi in Inglese"
 description: "Cosa dire e, soprattutto, cosa capire quando passi il metal detector e i controlli del bagaglio a mano."
-permalink: /inglese/viaggio/controlli-sicurezza-aeroporto-inglese/
+permalink: /inglese/viaggio/aeroporto/controlli-sicurezza-aeroporto-inglese/
 
 # --- Configurazione del Motore del Sito ---
 type: vocabolario
