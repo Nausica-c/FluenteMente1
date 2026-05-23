@@ -74,6 +74,6 @@ Leggi questo breve scambio per abituarti a un'interazione tipica allo sportello 
 
 <div class="in-breve-box in-breve-viaggio" style="margin-top: 40px;">
   <strong>🚀 Completa il kit per muoverti in città:</strong><br>
-  • <a href="{{ '/inglese/viaggio/chiedere-indicazioni-inglese/' | relative_url }}">Chiedere Indicazioni: come orientarsi per strada senza perdersi</a><br>
-  • <a href="{{ '/inglese/viaggio/check-in-hotel-inglese/' | relative_url }}">Check-in in Hotel: l'inglese per gestire l'arrivo in struttura</a>
+  • <a href="{{ '/inglese/viaggio/trasporto/chiedere-indicazioni-inglese/' | relative_url }}">Chiedere Indicazioni: come orientarsi per strada senza perdersi</a><br>
+  • <a href="{{ '/inglese/viaggio/hotel/check-in-hotel-inglese/' | relative_url }}">Check-in in Hotel: l'inglese per gestire l'arrivo in struttura</a>
 </div>
