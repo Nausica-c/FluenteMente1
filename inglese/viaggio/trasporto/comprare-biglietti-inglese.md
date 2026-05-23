@@ -5,7 +5,7 @@
 layout: vocabolario
 title: "Comprare Biglietti per Treni e Mezzi Pubblici: Frasi in Inglese"
 description: "Il vocabolario pratico per acquistare biglietti, chiedere orari e muoversi con i mezzi pubblici all'estero."
-permalink: /inglese/viaggio/comprare-biglietti-inglese/
+permalink: /inglese/viaggio/trasporto/comprare-biglietti-inglese/
 
 # --- Configurazione del Motore del Sito ---
 type: vocabolario
