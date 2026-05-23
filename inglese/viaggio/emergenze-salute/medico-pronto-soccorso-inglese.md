@@ -5,7 +5,7 @@
 layout: vocabolario
 title: "Dal Medico o al Pronto Soccorso: Frasi Utili in Inglese"
 description: "Il vocabolario pratico per spiegare un dolore, un infortunio o gestire l'accettazione medica all'estero."
-permalink: /inglese/viaggio/medico-pronto-soccorso-inglese/
+permalink: /inglese/viaggio/emergenze-salute/medico-pronto-soccorso-inglese/
 
 # --- Configurazione del Motore del Sito ---
 type: vocabolario
