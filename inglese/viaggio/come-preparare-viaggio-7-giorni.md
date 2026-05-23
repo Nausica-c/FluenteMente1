@@ -2,7 +2,7 @@
 # ==========================================
 # CORE SEO & AUTOMATION
 # ==========================================
-layout: post
+layout: vocabolario 
 title: "Come Preparare l'Inglese per un Viaggio in 7 Giorni (Senza Panico)"
 description: "Il piano definitivo per preparare il tuo inglese prima di un viaggio in soli 7 giorni. Routine, frasi chiave e consigli per gestire l'estero con sicurezza."
 permalink: /inglese/viaggio/come-preparare-viaggio-7-giorni/
@@ -67,5 +67,4 @@ Se segui questo piano, non arriverai all'estero come un madrelingua, ma ci arriv
         <li><a href="{{ '/inglese/viaggio/aeroporto/' | relative_url }}">Guida all'Aeroporto</a></li>
         <li><a href="{{ '/inglese/viaggio/ristorante/' | relative_url }}">Dialoghi al Ristorante</a></li>
     </ul>
-/div>
-  
+
