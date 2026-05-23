@@ -51,25 +51,25 @@ Abbiamo suddiviso l'inglese per l'hotel in 4 guide verticali, seguendo l'ordine 
 <div class="in-breve-box in-breve-viaggio" style="margin-bottom: 25px;">
   <strong>🔑 1. L'Arrivo e il Check-in</strong><br>
   Le frasi essenziali per presentarsi, confermare la prenotazione, mostrare il documento e ottenere la chiave della stanza.<br>
-  👉 <a href="{{ '/inglese/viaggio/check-in-hotel-inglese/' | relative_url }}">Vai alla guida Check-in in Inglese</a>
+  👉 <a href="{{ '/inglese/viaggio/hotel/check-in-hotel-inglese/' | relative_url }}">Vai alla guida Check-in in Inglese</a>
 </div>
 
 <div class="in-breve-box in-breve-vocabolario" style="margin-bottom: 25px;">
   <strong>☕ 2. Servizi, Wi-Fi e Informazioni</strong><br>
   Come chiedere gli orari della colazione, la password del Wi-Fi, informazioni su palestra, piscina e servizio navetta.<br>
-  👉 <a href="{{ '/inglese/viaggio/servizi-hotel-inglese/' | relative_url }}">Vai alla guida Servizi dell'Hotel</a>
+  👉 <a href="{{ '/inglese/viaggio/hotel/servizi-hotel-inglese/' | relative_url }}">Vai alla guida Servizi dell'Hotel</a>
 </div>
 
 <div class="in-breve-box in-breve-stallo" style="margin-bottom: 25px;">
   <strong>🛠️ 3. Segnalare Problemi in Camera</strong><br>
   Come chiamare la manutenzione per un guasto, segnalare una stanza rumorosa o richiedere asciugamani e cuscini extra.<br>
-  👉 <a href="{{ '/inglese/viaggio/problemi-camera-hotel-inglese/' | relative_url }}">Vai alla guida Problemi in Camera</a>
+  👉 <a href="{{ '/inglese/viaggio/hotel/problemi-camera-hotel-inglese/' | relative_url }}">Vai alla guida Problemi in Camera</a>
 </div>
 
 <div class="in-breve-box" style="border-left-color: #475569; background-color: #f8fafc; color: #1e293b; margin-bottom: 25px;">
   <strong>🧾 4. La Partenza e il Check-out</strong><br>
   Le frasi per saldare il conto finale, verificare eventuali addebiti extra (minibar) e richiedere la ricevuta fiscale.<br>
-  👉 <a href="{{ '/inglese/viaggio/check-out-hotel-inglese/' | relative_url }}">Vai alla guida Check-out in Inglese</a>
+  👉 <a href="{{ '/inglese/viaggio/hotel/check-out-hotel-inglese/' | relative_url }}">Vai alla guida Check-out in Inglese</a>
 </div>
 
 ---
