@@ -69,6 +69,6 @@ Leggi questo esempio di interazione per capire come rispondere alle domande di r
 
 <div class="in-breve-box in-breve-viaggio" style="margin-top: 40px;">
   <strong>🚀 Continua il tuo percorso:</strong><br>
-  • <a href="{{ '/inglese/viaggio/bagagli-smarriti-inglese/' | relative_url }}">Bagagli Smarriti o Danneggiati: cosa dire al desk assistenza in aeroporto</a><br>
-  • <a href="{{ '/inglese/viaggio/emergenze-salute-inglese/' | relative_url }}">Emergenze e Salute: il vocabolario medico salvavita all'estero</a>
+  • <a href="{{ '/inglese/viaggio/aeroporto/bagagli-smarriti-inglese/' | relative_url }}">Bagagli Smarriti o Danneggiati: cosa dire al desk assistenza in aeroporto</a><br>
+  • <a href="{{ '/inglese/viaggio/emergenze-salute/' | relative_url }}">Emergenze e Salute: il vocabolario medico salvavita all'estero</a>
 </div>
