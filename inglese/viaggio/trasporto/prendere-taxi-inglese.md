@@ -85,6 +85,6 @@ Leggi questo botta e risposta per capire come gestire la contrattazione iniziale
 
 <div class="in-breve-box in-breve-viaggio" style="margin-top: 40px;">
   <strong>🚀 Continua il tuo percorso:</strong><br>
-  • <a href="{{ '/inglese/viaggio/comprare-biglietti-inglese/' | relative_url }}">Treni e Autobus: come acquistare i biglietti dei mezzi pubblici</a><br>
-  • <a href="{{ '/inglese/viaggio/check-in-hotel-inglese/' | relative_url }}">In Hotel: le frasi per gestire check-in e richieste alla reception</a>
+  • <a href="{{ '/inglese/viaggio/trasporto/comprare-biglietti-inglese/' | relative_url }}">Treni e Autobus: come acquistare i biglietti dei mezzi pubblici</a><br>
+  • <a href="{{ '/inglese/viaggio/hotel/check-in-hotel-inglese/' | relative_url }}">In Hotel: le frasi per gestire check-in e richieste alla reception</a>
 </div>
