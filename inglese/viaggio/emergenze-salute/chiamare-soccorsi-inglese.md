@@ -93,6 +93,6 @@ Ecco una simulazione realistica per abituare l'orecchio al ritmo di una chiamata
 
 <div class="in-breve-box in-breve-viaggio" style="margin-top: 40px;">
   <strong>🚀 Ritorna all'Hub Emergenze:</strong><br>
-  • <a href="{{ '/inglese/viaggio/emergenze-salute-inglese/' | relative_url }}">Torna alla guida principale per la salute e gli imprevisti in viaggio</a><br>
-  • <a href="{{ '/inglese/viaggio/medico-pronto-soccorso-inglese/' | relative_url }}">Pronto Soccorso: come interagire con l'infermiere all'accettazione</a>
+  • <a href="{{ '/inglese/viaggio/emergenze-salute/' | relative_url }}">Torna alla guida principale per la salute e gli imprevisti in viaggio</a><br>
+  • <a href="{{ '/inglese/viaggio/emergenze-salute/medico-pronto-soccorso-inglese/' | relative_url }}">Pronto Soccorso: come interagire con l'infermiere all'accettazione</a>
 </div>
