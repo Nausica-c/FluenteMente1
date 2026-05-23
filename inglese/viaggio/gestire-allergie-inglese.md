@@ -70,6 +70,6 @@ Per una sicurezza massima, ti suggerisco di preparare un **biglietto stampato** 
 
 <div class="in-breve-box in-breve-viaggio" style="margin-top: 40px;">
   <strong>🚀 Risorse correlate:</strong><br>
-  • <a href="{{ '/inglese/viaggio/emergenze-salute-inglese/' | relative_url }}">Hub Emergenze: il vocabolario medico salvavita</a><br>
+  • <a href="{{ '/inglese/viaggio/emergenze-salute/' | relative_url }}">Hub Emergenze: il vocabolario medico salvavita</a><br>
   • <a href="{{ '/inglese/viaggio/ristorante/ordinare-ristorante-inglese/' | relative_url }}">Ordinare al ristorante: come chiedere chiarimenti sui piatti</a>
 </div>
