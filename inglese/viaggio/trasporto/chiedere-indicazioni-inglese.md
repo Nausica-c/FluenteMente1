@@ -92,6 +92,6 @@ Leggi questo breve scenario per capire come si combinano le domande e le indicaz
 
 <div class="in-breve-box in-breve-viaggio" style="margin-top: 40px;">
   <strong>🚀 Continua la tua esplorazione:</strong><br>
-  • <a href="{{ '/inglese/viaggio/comprare-biglietti-inglese/' | relative_url }}">Mezzi Pubblici: le frasi per acquistare i biglietti di bus e metro</a><br>
-  • <a href="{{ '/inglese/viaggio/prendere-taxi-inglese/' | relative_url }}">Taxi e Uber: come comunicare con l'autista senza errori</a>
+  • <a href="{{ '/inglese/viaggio/trasporto/comprare-biglietti-inglese/' | relative_url }}">Mezzi Pubblici: le frasi per acquistare i biglietti di bus e metro</a><br>
+  • <a href="{{ '/inglese/viaggio/trasporto/prendere-taxi-inglese/' | relative_url }}">Taxi e Uber: come comunicare con l'autista senza errori</a>
 </div>
