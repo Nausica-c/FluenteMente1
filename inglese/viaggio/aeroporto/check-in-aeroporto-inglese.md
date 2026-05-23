@@ -5,7 +5,7 @@
 layout: vocabolario
 title: "Al Check-in dell'Aeroporto: Frasi in Inglese"
 description: "Le espressioni essenziali per registrare i bagagli, scegliere il posto e ritirare la carta d'imbarco senza stress."
-permalink: /inglese/viaggio/check-in-aeroporto-inglese/
+permalink: /inglese/viaggio/aeroporto/check-in-aeroporto-inglese/
 
 # --- Configurazione del Motore del Sito ---
 type: vocabolario
