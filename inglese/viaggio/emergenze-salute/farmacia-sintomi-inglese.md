@@ -5,7 +5,7 @@
 layout: vocabolario
 title: "In Farmacia: Vocabolario e Frasi Utili in Inglese"
 description: "Le frasi essenziali per spiegare i sintomi leggeri e acquistare farmaci da banco all'estero."
-permalink: /inglese/viaggio/farmacia-sintomi-inglese/
+permalink: /inglese/viaggio/emergenze-salute/farmacia-sintomi-inglese/
 
 # --- Configurazione del Motore del Sito ---
 type: vocabolario
