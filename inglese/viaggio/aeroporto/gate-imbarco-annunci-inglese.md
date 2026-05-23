@@ -5,7 +5,7 @@
 layout: vocabolario
 title: "Al Gate d'Imbarco e Annunci: Frasi in Inglese"
 description: "Come capire gli annunci all'altoparlante e interagire al gate senza stress."
-permalink: /inglese/viaggio/gate-imbarco-annunci-inglese/
+permalink: /inglese/viaggio/aeroporto/gate-imbarco-annunci-inglese/
 
 # --- Configurazione del Motore del Sito ---
 type: vocabolario
