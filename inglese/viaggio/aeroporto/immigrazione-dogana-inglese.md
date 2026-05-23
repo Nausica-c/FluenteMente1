@@ -5,7 +5,7 @@
 layout: vocabolario
 title: "Immigrazione e Dogana in Aeroporto: Frasi in Inglese"
 description: "Le risposte pronte per affrontare il controllo passaporti e le domande degli agenti di frontiera senza esitazioni."
-permalink: /inglese/viaggio/immigrazione-dogana-inglese/
+permalink: /inglese/viaggio/aeroporto/immigrazione-dogana-inglese/
 
 # --- Configurazione del Motore del Sito ---
 type: vocabolario
