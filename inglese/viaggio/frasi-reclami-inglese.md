@@ -98,5 +98,5 @@ Gestire i problemi in inglese richiede prontezza. Se cerchi di tradurre mentalme
 <div class="in-breve-box in-breve-viaggio" style="margin-top: 40px;">
   <strong>🚀 Continua il tuo percorso:</strong><br>
   • 💼 Lavori spesso all'estero? Scopri tutte le guide dedicate nel nostro <strong><a href="{{ '/inglese/business/' | relative_url }}">Hub Business English</a></strong>.<br>
-  • 🏨 Gestisci la Reception: assicurati di saper comunicare al meglio con lo staff dell'albergo. Leggi la guida: <strong><a href="{{ '/inglese/viaggio/inglese-in-hotel/' | relative_url }}">Inglese in Hotel: La Guida Completa</a></strong>.
+  • 🏨 Gestisci la Reception: assicurati di saper comunicare al meglio con lo staff dell'albergo. Leggi la guida: <strong><a href="{{ '/inglese/viaggio/hotel/' | relative_url }}">Inglese in Hotel: La Guida Completa</a></strong>.
 </div>
