@@ -5,7 +5,7 @@
 layout: vocabolario
 title: "Il Check-out in Hotel: Frasi in Inglese per Partire"
 description: "Il vocabolario per saldare il conto, controllare la ricevuta e concludere il soggiorno senza sorprese."
-permalink: /inglese/viaggio/check-out-hotel-inglese/
+permalink: /inglese/viaggio/hotel/check-out-hotel-inglese/
 
 # --- Configurazione del Motore del Sito ---
 type: vocabolario
