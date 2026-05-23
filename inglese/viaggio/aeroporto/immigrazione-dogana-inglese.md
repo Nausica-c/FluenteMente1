@@ -73,6 +73,6 @@ Esercitati con questo botta e risposta tipico. Noterai che le risposte del turis
 
 <div class="in-breve-box in-breve-viaggio" style="margin-top: 40px;">
   <strong>🚀 Continua il tuo percorso in Aeroporto:</strong><br>
-  • <a href="{{ '/inglese/viaggio/controlli-sicurezza-aeroporto-inglese/' | relative_url }}">Controlli di Sicurezza: cosa capire al metal detector</a><br>
-  • <a href="{{ '/inglese/viaggio/bagagli-smarriti-inglese/' | relative_url }}">Assistenza Bagagli: la guida in caso di valigia smarrita</a>
+  • <a href="{{ '/inglese/viaggio/aeroporto/controlli-sicurezza-aeroporto-inglese/' | relative_url }}">Controlli di Sicurezza: cosa capire al metal detector</a><br>
+  • <a href="{{ '/inglese/viaggio/aeroporto/bagagli-smarriti-inglese/' | relative_url }}">Assistenza Bagagli: la guida in caso di valigia smarrita</a>
 </div>
