@@ -70,6 +70,6 @@ Leggi questo scambio tipico per abituare l'orecchio alle classiche domande che t
 
 <div class="in-breve-box in-breve-viaggio" style="margin-top: 40px;">
   <strong>🚀 Continua il tuo percorso:</strong><br>
-  • <a href="{{ '/inglese/viaggio/bagagli-smarriti-inglese/' | relative_url }}">Bagagli Smarriti o Danneggiati: cosa fare se la valigia non arriva</a><br>
-  • <a href="{{ '/inglese/viaggio/emergenze-salute-inglese/' | relative_url }}">L'Hub di Emergenza: le frasi salvavita da tenere sempre a portata di mano</a>
+  • <a href="{{ '/inglese/viaggio/aeroporto/bagagli-smarriti-inglese/' | relative_url }}">Bagagli Smarriti o Danneggiati: cosa fare se la valigia non arriva</a><br>
+  • <a href="{{ '/inglese/viaggio/emergenze-salute/' | relative_url }}">L'Hub di Emergenza: le frasi salvavita da tenere sempre a portata di mano</a>
 </div>
