@@ -68,6 +68,6 @@ Leggi questo breve scambio per imparare a porre domande sugli ingredienti in mod
 
 <div class="in-breve-box in-breve-viaggio" style="margin-top: 40px;">
   <strong>🚀 Completa la tua esperienza al ristorante:</strong><br>
-  • <a href="{{ '/inglese/viaggio/ristorante-prenotazione-inglese/' | relative_url }}">Prenotazione: come chiedere un tavolo</a><br>
-  • <a href="{{ '/inglese/viaggio/ristorante-conto-inglese/' | relative_url }}">Chiedere il Conto: frasi per pagare e lasciare la mancia</a>
+  • <a href="{{ '/inglese/viaggio/ristorante/prenotazione-ristorante-inglese/' | relative_url }}">Prenotazione: come chiedere un tavolo</a><br>
+  • <a href="{{ '/inglese/viaggio/ristorante/conto-mancia-inglese/' | relative_url }}">Chiedere il Conto: frasi per pagare e lasciare la mancia</a>
 </div>
