@@ -2,7 +2,7 @@
 # ==========================================
 # CORE SEO & AUTOMATION
 # ==========================================
-layout: post
+layout: vocabolario 
 title: "Kit Inglese per Viaggiare: 30 Frasi Salva-Vita da Salvare sul Telefono"
 description: "Scarica il kit di sopravvivenza con le 30 frasi in inglese più utili per viaggiare. Dall'aeroporto al ristorante, tutto quello che ti serve in un'unica guida pratica."
 date: 2026-05-23
@@ -33,7 +33,7 @@ Il primo impatto è sempre quello più stressante. Queste frasi ti aiuteranno a 
 | **Does this train stop at [Station]?** | Questo treno ferma a...? |
 | **I’ve missed my connection.** | Ho perso la coincidenza. |
 
-> **Approfondimento:** Gestisci ogni fase dal gate al ritiro bagagli con la nostra guida hub: **[Inglese in Aeroporto: La Guida Completa]({{ '/inglese/viaggio/aeroporto-inglese-hub/' | relative_url }})**.
+> **Approfondimento:** Gestisci ogni fase dal gate al ritiro bagagli con la nostra guida hub: **[Inglese in Aeroporto: La Guida Completa]({{ '/inglese/viaggio/aeroporto/' | relative_url }})**.
 
 ---
 
@@ -47,7 +47,7 @@ Dal check-in alla richiesta di un cuscino extra: ecco come gestire la tua "casa"
 | **Could I leave my luggage here?** | Posso lasciare i bagagli qui? (per il check-out) |
 | **The Wi-Fi isn’t working in my room.** | Il Wi-Fi non funziona in camera. |
 
-> **Consiglio pratico:** Consulta l'hub per gestire ogni aspetto del tuo soggiorno: **[Inglese in Hotel: La Guida Completa]({{ '/inglese/viaggio/hotel-inglese-hub/' | relative_url }})**.
+> **Consiglio pratico:** Consulta l'hub per gestire ogni aspetto del tuo soggiorno: **[Inglese in Hotel: La Guida Completa]({{ '/inglese/viaggio/hotel/' | relative_url }})**.
 
 ---
 
@@ -61,14 +61,14 @@ Ordinare cibo non dovrebbe essere una sfida olimpica.
 | **Could we have the bill, please?** | Possiamo avere il conto? |
 | **Is service included?** | Il servizio è incluso? |
 
-> **Vuoi ordinare come un pro?** Scopri tutto quello che ti serve nell'hub dedicato: **[Inglese al Ristorante: Guida Completa]({{ '/inglese/viaggio/ristorante-inglese-hub/' | relative_url }})**.
+> **Vuoi ordinare come un pro?** Scopri tutto quello che ti serve nell'hub dedicato: **[Inglese al Ristorante: Guida Completa]({{ '/inglese/viaggio/ristorante/' | relative_url }})**.
 
 ---
 
 > ### 🛑 Hai le frasi, ma hai paura della pronuncia?
 > Saper leggere una frase è utile, ma saperla **pronunciare con sicurezza** è ciò che cambia davvero il tuo viaggio. Con Babbel puoi fare pratica con i dialoghi reali prima ancora di scendere dall'aereo.
 >
-> 👉 **[Prepara il tuo prossimo viaggio con Babbel (Sconto Speciale)](/recensione-babbel/)**
+> 👉 **[Prepara il tuo prossimo viaggio con Babbel (/recensione-babbel/)**
 
 ---
 
@@ -82,7 +82,7 @@ Speriamo che non ti servano mai, ma in caso di necessità, la precisione è tutt
 | **Where is the nearest pharmacy?** | Dov’è la farmacia più vicina? |
 | **I need an ambulance.** | Ho bisogno di un'ambulanza. |
 
-> **Link Utili:** In caso di imprevisti, consulta l'hub dedicato: **[Emergenze e Salute in Viaggio]({{ '/inglese/viaggio/emergenze-salute-inglese/' | relative_url }})**.
+> **Link Utili:** In caso di imprevisti, consulta l'hub dedicato: **[Emergenze e Salute in Viaggio]({{ '/inglese/viaggio/emergenze-salute/' | relative_url }})**.
 
 ---
 
@@ -96,7 +96,7 @@ Non aver paura di chiedere indicazioni: è il modo migliore per scoprire gemme n
 | **How do I get to [Place]?** | Come arrivo a...? |
 | **Could you take a photo of me/us?** | Potresti scattarci una foto? |
 
-> **Vuoi muoverti senza stress?** Scopri come usare mezzi pubblici, taxi e orientarti con la guida: **[Trasporti e Indicazioni in Inglese]({{ '/inglese/viaggio/trasporti-indicazioni-inglese-hub/' | relative_url }})**.
+> **Vuoi muoverti senza stress?** Scopri come usare mezzi pubblici, taxi e orientarti con la guida: **[Trasporti e Indicazioni in Inglese]({{ '/inglese/viaggio/trasporto/' | relative_url }})**.
 
 ---
 
