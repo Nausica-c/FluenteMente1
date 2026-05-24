@@ -65,7 +65,7 @@ Il segreto dell'inglese professionale è usare un linguaggio indiretto. Evita fr
 | **"I’d like to request a full refund."** | *Vorrei richiedere un rimborso totale.* |
 
 <div class="in-breve-box in-breve-mindset">
-  <strong>🧠 Sindrome dell'Impostore al Lavoro?</strong> La paura di sembrare poco professionali frena la carriera di tantissimi adulti. Se prima di gestire un problema in inglese ti sudano le mani, non è colpa della grammatica, ma di un blocco psicologico legato al parlato. Scopri come risolverlo nella nostra guida: <strong><a href="{{ '/inglese/metodo/capisco-ma-non-parlo/' | relative_url }}">Capisco ma non parlo</a></strong>.
+  <strong>🧠 Sindrome dell'Impostore al Lavoro?</strong> La paura di sembrare poco professionali frena la carriera di tantissimi adulti. Se prima di gestire un problema in inglese ti sudano le mani, non è colpa della grammatica, ma di un blocco psicologico legato al parlato. Scopri come risolverlo nella nostra guida: <strong><a href="{{ '/inglese/speaking/capisco-ma-non-parlo-inglese/' | relative_url }}">Capisco ma non parlo</a></strong>.
 </div>
 
 ---
